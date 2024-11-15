@@ -1,0 +1,978 @@
+Voornaam;Achternaam;Pasnummer;datum_checkin;datum_checkout;station_checkin;station_checkout;km_afgelegd;prijs;betaaltype
+Irma;Groen;19552223;23-11-2020;23-11-2020;Halte Harpstraat;Halte Padangstraat;26.42;5.13;CreditCard
+Nigel;van Leeuwen;58604703;22-11-2020;23-11-2020;Halte Stationsplein;Halte Lageweidsche dijk;29.68;5.7;Cash
+Hubertina;van der Veen;27164698;26-11-2020;27-11-2020;Halte Waterstraat;Halte Spinderpoort;12.88;2.47;Saldo
+Marc;de Koning;99724180;27-11-2020;28-11-2020;Halte Schelpstraat;Halte Runnebaan;31.58;6.08;Cash
+Julien;van den Velden;99142144;28-11-2020;28-11-2020;Halte Prooststraat;Halte Koningspoort;29.7;5.7;CreditCard
+Renata;de Haan;11831483;22-11-2020;22-11-2020;Halte Gietershof;Halte Nicolaaskerkhof;28.71;5.51;CreditCard
+Brent;de Ruiter;62430538;25-11-2020;25-11-2020;Halte Zwaansteeg;Halte Grutterssteeg;16.73;3.23;CreditCard
+Vanessa;van der Wal;84489695;26-11-2020;26-11-2020;Halte Haverland;Halte Hieronymusplein;16.55;3.23;Pin
+Jairey;Koning;23878120;26-11-2020;26-11-2020;Halte Paijenborgsteeg;Halte Korte Smeestraat;21;3.99;Saldo
+Mitchell;Dijkstra;99339852;26-11-2020;26-11-2020;Halte Concordiastraat;Halte Blokstraat;15.65;3.04;CreditCard
+Letitia;Jansen;19265473;22-11-2020;23-11-2020;Halte Servaasbolwerk;Halte Bankaplein;9.8;1.9;CreditCard
+Jarno;Kuijpers;38509346;23-11-2020;24-11-2020;Halte Potterstraat;Halte Hoogenoord;30.17;5.89;CreditCard
+Yorick;van Beek;39196719;27-11-2020;28-11-2020;Halte Oosterstraat;Halte Kromme Rijn;12.85;2.47;Pin
+Pier;Sanders;79054967;26-11-2020;27-11-2020;Halte Paijenborgsteeg;Halte Weidesteeg;13.19;2.66;CreditCard
+Bauke;de Jonge;65826540;23-11-2020;23-11-2020;Halte Hoogelanden OZ;Halte Achterstraat 2e;25.24;4.94;Pin
+Inti;Kuipers;23384372;24-11-2020;24-11-2020;Halte Vleutensche Weg;Halte Walsteeg;17.18;3.42;Cash
+Fenne;Schouten;21862323;27-11-2020;28-11-2020;Halte Prooststraat;Halte Hieronymusplein;25.16;4.94;CreditCard
+Esra;Meijer;12905708;22-11-2020;22-11-2020;Halte Annastraat;Halte Tolsteegbrug;19.9;3.8;Saldo
+Reiner;Bos;34442775;22-11-2020;22-11-2020;Halte Predikheerenkerkhof;Halte Bleijenburgstraat;13.53;2.66;Cash
+Sjeng;van Wijk;58108501;27-11-2020;28-11-2020;Halte Javastraat;Halte Vlasstraat;19.1;3.8;Cash
+Jan Jaap;Smeets;97324867;27-11-2020;28-11-2020;Halte Hofje van Zessen;Halte Kwartelstraat;21.91;4.18;Cash
+Wieger;van de Veen;36055184;26-11-2020;26-11-2020;Halte Bladstraat;Halte Schepenmakerssteeg;25.96;4.94;Pin
+Felix;de Lange;77918858;26-11-2020;26-11-2020;Halte Weteringstraat;Halte Lindestraat;13.82;2.66;Pin
+Hildegard;Peters;34793663;24-11-2020;25-11-2020;Halte Leidsche Kade;Halte Bleijenburgkade;8.37;1.71;Cash
+Kristel;de Groot;39156845;24-11-2020;24-11-2020;Halte Oude Kamp;Halte Begijnesteeg 2e;22.91;4.37;Saldo
+Felicity;Groen;62863134;25-11-2020;25-11-2020;Halte Koolstraat;Halte Spieringpoort;20.25;3.99;Cash
+Mien;van der Velde;42397143;23-11-2020;23-11-2020;Halte Lange Lauwerstraat;Halte Wijckskade (van);27.59;5.32;Cash
+Ferre;Willems;87274336;22-11-2020;22-11-2020;Halte Twijnstraat;Halte Malakkastraat;31.08;6.08;Cash
+Bernadette;Jonker;81622703;26-11-2020;26-11-2020;Halte Fockstraat;Halte Jacobssteeg;18.87;3.61;Cash
+Iwan;van de Wal;69098107;22-11-2020;23-11-2020;Halte Raamsteeg;Halte Jansdam;24.12;4.75;Saldo
+Krista;Kuypers;17796965;27-11-2020;27-11-2020;Halte Margarethahofje;Halte Spinderpoort;23.13;4.56;Pin
+Marc-Marie;de Bruijn;81013245;27-11-2020;28-11-2020;Halte Hopstraat;Halte Stijfselsteeg;29.34;5.7;CreditCard
+Harco;de Leeuw;74196699;22-11-2020;22-11-2020;Halte Jacobskerkstraat;Halte Bekkerstraat;9.27;1.9;Pin
+Luuk;Jonker;63408688;27-11-2020;27-11-2020;Halte Paddemoes;Halte Violenstraat;14.83;2.85;Saldo
+Pedro;Bosman;54833356;24-11-2020;24-11-2020;Halte Pausdam;Halte Koningslaan;28.53;5.51;Pin
+Micha;de Wit;76942294;23-11-2020;23-11-2020;Halte Lange Rozendaal;Halte Onder de Linden;22.05;4.37;Pin
+Constantijn;Schouten;25086896;24-11-2020;25-11-2020;Halte Kogelsteeg;Halte Dirkje Mariastraat;11.05;2.28;Pin
+Logan;Willems;72166491;24-11-2020;25-11-2020;Halte Plompetorenbrug;Halte Haverstraat;20.59;3.99;Cash
+Ilona;de Bruyn;42297200;24-11-2020;24-11-2020;Halte Jagerskade;Halte Nieuwe Kamp;15.75;3.04;Cash
+Hugo;van der Linden;43346616;23-11-2020;23-11-2020;Halte Bleekerstraat;Halte Hoogt;16.19;3.23;CreditCard
+Gerrie;van der Velde;99564257;25-11-2020;26-11-2020;Halte Kleine Singel;Halte Joh. Camphuysstraat;11.79;2.28;Cash
+Anita;van Dongen;26971403;24-11-2020;24-11-2020;Halte Beverstraat;Halte Groenestraat;19.05;3.8;CreditCard
+Marian;van Dijk;22268483;26-11-2020;26-11-2020;Halte Hekelsteeg;Halte Frans Halsstraat;12.81;2.47;Pin
+Lilian;van de Wal;81239163;26-11-2020;27-11-2020;Halte Buurkerksteeg 3e;Halte Delistraat 2e;16.12;3.23;Cash
+Jade;Dijkstra;26436044;24-11-2020;25-11-2020;Halte Speykstraat (van);Halte Elimos. V. Oud Munst.;28.9;5.51;CreditCard
+Carl;Postma;63884481;26-11-2020;27-11-2020;Halte Vinkenkade;Halte Domplein;26.65;5.13;Cash
+Fleur;van den Bosch;99224069;23-11-2020;24-11-2020;Halte Jacobskerkhof;Halte Covelsteeg;16.31;3.23;Cash
+Isabelle;Willemsen;73081553;27-11-2020;27-11-2020;Halte Grasstraat;Halte Kroonsteeg;29.33;5.7;Cash
+Johnny;van der Velden;75586911;24-11-2020;24-11-2020;Halte Brandsteeg;Halte Damstraat;22.87;4.37;Saldo
+Severinus;van der Heijden;70348609;23-11-2020;24-11-2020;Halte Jan Pietersz. Koenstraat;Halte Pauwstraat;10.39;2.09;Saldo
+Veronique;Vermeulen;58200268;28-11-2020;28-11-2020;Halte Mariaplaats;Halte Spoorstraat;21.84;4.18;CreditCard
+Lorenz;van den Broek;91073077;23-11-2020;23-11-2020;Halte Nieuwe Koekoekstraat;Halte Nieuwe Keizersgracht;28.69;5.51;CreditCard
+Cas;de Bruijn;54329809;23-11-2020;23-11-2020;Halte Rozenstraat;Halte Catharijnekade;22.34;4.37;Saldo
+Jens;van de Velde;94233734;26-11-2020;27-11-2020;Halte Kloksteeg;Halte Zandhofschestraat;18.63;3.61;CreditCard
+Yvan;van der Linden;27595813;25-11-2020;25-11-2020;Halte Buurkerksteeg 2e;Halte Kievitdwarsstraat;17.38;3.42;Cash
+Kiano;van der Ven;86856304;22-11-2020;23-11-2020;Halte Diaconiepoort;Halte Ezelsdijk;20.37;3.99;Pin
+Marloes;van Dongen;42333009;26-11-2020;27-11-2020;Halte Servaaspark;Halte Spieringpoort;13.42;2.66;CreditCard
+Jetske;van de Ven;92398436;24-11-2020;24-11-2020;Halte Takstraat;Halte Haverstraat;20.52;3.99;Pin
+Deborah;van der Meulen;46680629;24-11-2020;24-11-2020;Halte Noteboomenlaan;Halte Bankstraat;28.71;5.51;Pin
+Ibrahim;Jansen;30599299;23-11-2020;23-11-2020;Halte Arentzstraat;Halte Lange Viestraat;19.34;3.8;Saldo
+Natalie;van der Ven;64536636;22-11-2020;23-11-2020;Halte Wolvenplein;Halte Zandpad;27.71;5.32;Pin
+Ruby;Boer;12322245;27-11-2020;28-11-2020;Halte Predikheerenkerkhof;Halte Hardebollenstraat;30.56;5.89;Pin
+Mathilde;de Koning;85685698;26-11-2020;27-11-2020;Halte Oudegracht (Weerd);Halte Catharijnesingel;19.7;3.8;Cash
+Danique;Huisman;96358782;25-11-2020;25-11-2020;Halte Oranjehofje;Halte Draaiweg;18.41;3.61;CreditCard
+Freddie;Schipper;80875519;24-11-2020;25-11-2020;Halte Helmstraat;Halte Muntstraat;17.32;3.42;CreditCard
+Cecilia;Vermeulen;83399302;23-11-2020;23-11-2020;Halte Keizerstraat;Halte Bleekerstraat;19.49;3.8;Pin
+Mireille;Janssen;25041644;23-11-2020;23-11-2020;Halte Knopstraat;Halte Laddersteeg;18.28;3.61;CreditCard
+Reindert;van de Velden;45751246;26-11-2020;27-11-2020;Halte Tulpstraat;Halte Wilgstraat;28.95;5.51;CreditCard
+Nasser;de Bruyn;43913461;23-11-2020;23-11-2020;Halte Kranenburg;Halte Koolstraat;28.34;5.51;CreditCard
+Rita;Timmermans;83066684;28-11-2020;29-11-2020;Halte Vrouwjuttenstraat;Halte Ridderhofstad;31.59;6.08;CreditCard
+Marja;van der Linden;89001183;27-11-2020;27-11-2020;Halte Daendelsstraat;Halte Stationsplein;31.26;6.08;CreditCard
+Job;Smit;92251358;22-11-2020;23-11-2020;Halte Zuilensteeg;Halte Weidesteeg;22.61;4.37;Pin
+Floor;Hermans;34440450;25-11-2020;26-11-2020;Halte Atjehstraat 2e;Halte Hoogstraat;29.17;5.7;Pin
+Guus;Mulder;17151068;24-11-2020;24-11-2020;Halte Onder de Linden;Halte Poortstraat;19.95;3.8;CreditCard
+Frederick;de Bruijn;21014774;26-11-2020;27-11-2020;Halte Hemdsmouwsteeg;Halte Jacobijnestraat;16.85;3.23;CreditCard
+Tessa;Blom;17821993;23-11-2020;23-11-2020;Halte Westerkade;Halte Frederikastraat;22.91;4.37;Cash
+Fons;van der Ven;65135514;24-11-2020;25-11-2020;Halte Andreasstraat;Halte Leistraat;7.07;1.52;Pin
+Joy;van der Berg;23616838;22-11-2020;22-11-2020;Halte Domplein;Halte Abel Tasmanstraat;23.87;4.56;Cash
+Gerbrand;Willems;84596310;24-11-2020;25-11-2020;Halte Flieruilensteeg;Halte Oosterbuurt;9.22;1.9;CreditCard
+Friedrich;Post;93883423;22-11-2020;23-11-2020;Halte Nieuwe Kamp;Halte Steenweg;11.96;2.28;Saldo
+Sandro;Willemsen;33114561;28-11-2020;28-11-2020;Halte Domtrans;Halte Rotsoord;26.17;5.13;CreditCard
+Stefanie;Postma;31530416;26-11-2020;26-11-2020;Halte Oudkerkhof;Halte M.A. de Ruijterstraat;20.88;3.99;Pin
+Barry;van de Wal;60561400;27-11-2020;27-11-2020;Halte Keukenstraat;Halte Pallaesstraat;25.2;4.94;Cash
+Ivar;de Vos;25873724;24-11-2020;24-11-2020;Halte Bem. Weerd OZ;Halte Ooftstraat;26.25;5.13;Saldo
+Jochen;Hermans;73450449;27-11-2020;27-11-2020;Halte Maliesingel;Halte Zandstraat;25.5;4.94;Pin
+Lisa;Sanders;38248638;23-11-2020;24-11-2020;Halte Zadelstraat;Halte Leidsche Weg;30.58;5.89;Saldo
+Manuel;van de Velden;74105983;26-11-2020;27-11-2020;Halte Sterrebosch;Halte Croeselaan;18.65;3.61;Saldo
+Ivonne;Boer;68267606;26-11-2020;26-11-2020;Halte Muntsteeg;Halte Hofstraat;21.79;4.18;CreditCard
+Tjerk;Jonker;17983978;27-11-2020;27-11-2020;Halte Heerenweg;Halte Billitonstraat;27.02;5.32;Saldo
+Moussa;de Bruin;32845311;23-11-2020;24-11-2020;Halte Oude Kerkstraat;Halte Vleutensche Vaart;24.43;4.75;Cash
+Grant;de Vries;98492327;23-11-2020;23-11-2020;Halte Joh. Willem Frisostraat;Halte Teelingstraat;31.1;6.08;Pin
+Nynke;van der Meulen;63942280;23-11-2020;23-11-2020;Halte Doornstraat;Halte Renstraat;10;1.9;Saldo
+Lena;Kuipers;20603691;25-11-2020;26-11-2020;Halte Catharijnesingel;Halte Koekoeksplein;7.48;1.52;Cash
+Kelvin;Kuiper;10829343;22-11-2020;23-11-2020;Halte Zandhofschestraat;Halte Violenstraat;25.36;4.94;Pin
+Marijn;Willems;22396124;28-11-2020;29-11-2020;Halte Kovelaarstraat;Halte Borneostraat;16.76;3.23;Pin
+Afra;Evers;20100675;28-11-2020;29-11-2020;Halte Jan Houtmanstraat;Halte Lichtegaard;19.31;3.8;Cash
+Moreno;de Lange;87510677;26-11-2020;26-11-2020;Halte Jan van Scorelstraat;Halte Kerkdwarsstraat;13.19;2.66;CreditCard
+Runar;van den Broek;47832194;27-11-2020;27-11-2020;Halte Willem Barentzstraat;Halte Palmstraat;22.32;4.37;Cash
+Philip;van den Velden;92687481;25-11-2020;25-11-2020;Halte Domsteeg;Halte Ondiep;29.8;5.7;Pin
+Vincent;Smeets;43052023;23-11-2020;23-11-2020;Halte Boomstraat;Halte Prinsenstraat;22.98;4.37;Pin
+IJsbrand;van Dijk;71463384;24-11-2020;24-11-2020;Halte Moesstraat;Halte Singeldwarsstraat;29.83;5.7;Pin
+Isa;de Jonge;91071459;25-11-2020;26-11-2020;Halte Mariaplaats;Halte Roodepoort;14;2.66;CreditCard
+Nathalie;Vermeulen;27869209;22-11-2020;23-11-2020;Halte Eikenboomstraat;Halte Kolfstraat;18.47;3.61;Saldo
+Ingrid;de Graaf;34540088;25-11-2020;25-11-2020;Halte Bleekerstraat;Halte Stadhouderslaan;31.05;6.08;Pin
+Marjolijn;Vermeulen;21521598;25-11-2020;25-11-2020;Halte Billitonkade;Halte Brugsteeg;26.53;5.13;CreditCard
+Anja;Kuiper;38178240;23-11-2020;24-11-2020;Halte Burgstraat;Halte Koningslaan;30.12;5.89;Pin
+Renate;Vermeulen;67359094;28-11-2020;29-11-2020;Halte Groeneweg;Halte Beekstraat;24.39;4.75;Saldo
+Rijmar;Maas;17426730;27-11-2020;28-11-2020;Halte Lamstraat;Halte Middellaan;7.35;1.52;Saldo
+Marinus;van Dijk;57914646;25-11-2020;26-11-2020;Halte Stroomkade;Halte Balistraat;16.03;3.23;CreditCard
+Hermen;Driessen;81541999;26-11-2020;26-11-2020;Halte Blindesteeg;Halte Damstraat;26.15;5.13;Pin
+Benjamin;de Koning;47694219;24-11-2020;25-11-2020;Halte Ooftstraat;Halte Oranjehofje;15.33;3.04;CreditCard
+Krelis;Kuiper;15540557;22-11-2020;23-11-2020;Halte Nachtegaalstraat;Halte Inundatiekade;23.13;4.56;CreditCard
+Joyce;van der Meer;54346560;25-11-2020;25-11-2020;Halte Blauwsteeg;Halte Schutterstraat;16.82;3.23;CreditCard
+Jezus;van der Ven;26287413;24-11-2020;24-11-2020;Halte Nieuwe Keizersgracht;Halte Nauwe Begijnesteeg;20.47;3.99;Saldo
+Noud;Schipper;50570821;26-11-2020;27-11-2020;Halte Predikheerenstraat;Halte Lange Rozendaal;28.04;5.51;Cash
+Bob;van Doorn;63060956;25-11-2020;26-11-2020;Halte Paardesteeg;Halte Oude Kamp;31.27;6.08;Cash
+Age;Vink;85678318;27-11-2020;27-11-2020;Halte Moutstraat;Halte Spieringpoort;28.07;5.51;Pin
+Melroy;Visser;11005375;23-11-2020;23-11-2020;Halte Wagenstraat;Halte Tulpstraat;21.86;4.18;CreditCard
+Dymfna;de Lange;72166794;25-11-2020;25-11-2020;Halte Mauritsstraat;Halte Leliestraat;17.23;3.42;Cash
+Cindy;Hofman;67640221;23-11-2020;24-11-2020;Halte Kievitstraat;Halte Vleutensche Weg;25.24;4.94;Saldo
+Menno;van der Heyden;51236484;22-11-2020;22-11-2020;Halte Corn. Evertsenstraat;Halte Achter de Wal;14.83;2.85;Pin
+Leendert;van Wijk;75182750;28-11-2020;28-11-2020;Halte Veensteeg;Halte Oranjehofje;9.17;1.9;Cash
+Jansje;Kuipers;98720973;23-11-2020;24-11-2020;Halte Lanceepoort;Halte Burgstraat;17.29;3.42;CreditCard
+Jean;van der Velden;30664596;23-11-2020;24-11-2020;Halte Runnebaan;Halte Zonnenburg;21.84;4.18;Pin
+Marco;Veenstra;14558701;22-11-2020;23-11-2020;Halte Vleutensche Vaart;Halte Hofstraat;24.98;4.75;Pin
+Sape;Post;74954125;24-11-2020;24-11-2020;Halte Bem. Weerd OZ;Halte Buys Ballotstraat;14.59;2.85;Cash
+Celine;van de Berg;92476983;22-11-2020;23-11-2020;Halte Kerkstraat;Halte Padangstraat;28.79;5.51;Pin
+Filip;van den Broek;72129070;24-11-2020;25-11-2020;Halte Tolsteegsingel O.Z.;Halte Loevenhout. Dijk;9.7;1.9;Cash
+Eduard;de Jong;83291158;22-11-2020;22-11-2020;Halte Onder de Linden;Halte Spinderpoort;24.12;4.75;CreditCard
+Aukje;van den Berg;64324347;22-11-2020;23-11-2020;Halte Bekkerstraat;Halte Maliestraat;9.27;1.9;Cash
+Jochem;Smits;36555921;24-11-2020;25-11-2020;Halte Achterstraat;Halte Obrechtstraat;28.71;5.51;Pin
+Sudesh;Veenstra;53506131;25-11-2020;25-11-2020;Halte Jan van Scorelstraat;Halte Bleekerstraat;7.62;1.52;CreditCard
+Karel;Peeters;16145116;26-11-2020;26-11-2020;Halte Oudwijkerlaan;Halte Bleijenburgstraat;20.86;3.99;CreditCard
+Vladimir;Vink;70821930;25-11-2020;26-11-2020;Halte Meidoornstraat;Halte Brandsteeg;27.93;5.32;Saldo
+Floris;de Koning;36832917;23-11-2020;23-11-2020;Halte Margarethahofje;Halte Atjehstraat 1e;19.92;3.8;CreditCard
+Ruben;Vermeulen;26997754;26-11-2020;26-11-2020;Halte Ambachtstraat;Halte Oudegracht (Weerd);26.98;5.13;Cash
+Hugo;Bakker;85891024;23-11-2020;24-11-2020;Halte Oranjestraat;Halte Varkenmarkt;29.6;5.7;CreditCard
+Octaaf;Bos;86865583;26-11-2020;27-11-2020;Halte Wijde Poort;Halte Leuninggang;25.14;4.94;Pin
+Merlijn;van den Broek;42795753;26-11-2020;26-11-2020;Halte Dirkje Mariastraat;Halte Minutensteeg;28.77;5.51;Cash
+Kenji;van der Laan;81972904;27-11-2020;28-11-2020;Halte Magdalenastraat;Halte Heerenstraat;23.58;4.56;Cash
+Mylan;Bakker;43874046;27-11-2020;27-11-2020;Halte Vleutensche Weg;Halte Hoog Glagenweerd;13.67;2.66;Pin
+Lesley;van der Veen;46394285;24-11-2020;24-11-2020;Halte Predikheerenstraat;Halte Oudkerkhof;29.72;5.7;Cash
+Melissa;van Loon;37258301;27-11-2020;28-11-2020;Halte Minkade;Halte Harpstraat;18.25;3.61;Cash
+Janos;Prins;72954867;23-11-2020;24-11-2020;Halte Vlijtstraat;Halte Spechtstraat 2e;10.86;2.09;Cash
+Mitch;de Jonge;11639779;23-11-2020;24-11-2020;Halte Bellamystraat;Halte Dorstige-harthof;29.48;5.7;Pin
+Anwar;Kramer;98365217;25-11-2020;26-11-2020;Halte Frans Halsstraat;Halte Muntsteeg;16.52;3.23;Cash
+Kitty;de Wit;62446484;28-11-2020;28-11-2020;Halte Donkere Gaard;Halte Badstraat;16.7;3.23;Cash
+Connor;Smit;23733441;22-11-2020;23-11-2020;Halte Soesbergen ;Halte Jacobskerkhof;17.41;3.42;Pin
+Kiano;van der Linden;63096112;23-11-2020;24-11-2020;Halte Waterpoort;Halte Fockstraat;29.55;5.7;Pin
+Erwin;de Bruyn;45221223;23-11-2020;24-11-2020;Halte Achterom;Halte Narcisstraat;28.35;5.51;Saldo
+Wilma;van der Pol;34572497;27-11-2020;28-11-2020;Halte Lange Hartsteeg;Halte Covelsteeg;9.85;1.9;Saldo
+Gerda;Mulder;98300022;28-11-2020;29-11-2020;Halte Neude;Halte Jutphaascheweg;20.42;3.99;Pin
+Wies;van de Velde;82758715;27-11-2020;28-11-2020;Halte Manenburg;Halte Korte Jansstraat;29.8;5.7;Pin
+Jansje;van der Horst;68397373;28-11-2020;28-11-2020;Halte Rotsoord;Halte Kievitdwarsstraat;15.62;3.04;Pin
+Jelmer;Boer;71656535;22-11-2020;22-11-2020;Halte Dijkstraat;Halte Lijnpadsteeg;27.91;5.32;Cash
+Veronique;Wolters;59851868;24-11-2020;24-11-2020;Halte Wed;Halte Hanengeschrei;13.04;2.66;Saldo
+Gerry;van Loon;94331970;22-11-2020;23-11-2020;Halte Servaaspark;Halte Elijnshof;8.6;1.71;Cash
+Jetske;de Bruin;33631342;22-11-2020;23-11-2020;Halte Merwedekade;Halte Blokstraat;30.72;5.89;CreditCard
+Willie;Schipper;95135504;27-11-2020;27-11-2020;Halte Wolfaartsteeg;Halte Korte Elisabethstraat;13.42;2.66;Cash
+Darya;van de Wal;50828381;25-11-2020;26-11-2020;Halte Jagerskade;Halte Vrijhof ;11.58;2.28;Pin
+Leopold;Gerritsen;20170824;24-11-2020;24-11-2020;Halte Willem Barentzstraat;Halte Kovelaarstraat;24.43;4.75;Saldo
+Sem;Schouten;71407645;28-11-2020;28-11-2020;Halte Wolvenplein;Halte Kerkweg;26.31;5.13;Saldo
+Boy;van de Velden;83779281;24-11-2020;24-11-2020;Halte Visscherssteeg;Halte Oude Kamp;28.02;5.51;Cash
+Heleen;van der Meulen;94856112;24-11-2020;24-11-2020;Halte Hamburgerstraat;Halte Raamsteeg;7;1.33;Cash
+Wietske;van Dongen;11166206;24-11-2020;25-11-2020;Halte Pijlsweertstraat;Halte Floris Heermalestraat;21.28;4.18;Saldo
+Froukje;van den Bosch;84723344;28-11-2020;28-11-2020;Halte Keizersgracht;Halte Prinsenhof;31.59;6.08;Cash
+Mirjam;Willemsen;12958419;22-11-2020;23-11-2020;Halte Zandhofschestraat;Halte Teelingstraat;23.09;4.56;CreditCard
+Erna;Schouten;60295830;22-11-2020;23-11-2020;Halte Pelmolenweg;Halte Lauwerecht;5.57;1.14;Cash
+Pjotr;Meijer;16868766;23-11-2020;24-11-2020;Halte Pieterstraat;Halte Koningsweg;28.43;5.51;Pin
+Chris;Kramer;12558665;22-11-2020;23-11-2020;Halte Zandhofschestraat;Halte Kruisdwarsstraat;29.88;5.7;Pin
+Arend;Vink;97710300;25-11-2020;26-11-2020;Halte Roggestraat;Halte Protestantenhofje;23.26;4.56;Cash
+Abraham;van den Heuvel;99031807;26-11-2020;26-11-2020;Halte Lange Rozendaal;Halte Leidschedwarsstraat;21.56;4.18;CreditCard
+Edith;Willemsen;49306877;28-11-2020;28-11-2020;Halte Laan van Chartroise;Halte Achterom;8.94;1.71;Saldo
+Krista;Bosman;56327584;23-11-2020;23-11-2020;Halte Jansveld;Halte Corn. Evertsenstraat;21.49;4.18;Saldo
+Antje;Kuiper;62925473;23-11-2020;24-11-2020;Halte Eikstraat;Halte Hieronymusplein;8.83;1.71;Cash
+Marinus;Timmermans;18159995;25-11-2020;25-11-2020;Halte Prooststraat;Halte Donkerstraat;28.32;5.51;Cash
+Gijs;van der Linden;50702978;23-11-2020;23-11-2020;Halte Domtrans;Halte Andreasstraat;26.91;5.13;CreditCard
+Bram;Kuypers;99728523;24-11-2020;24-11-2020;Halte Kuipersteeg;Halte Vrijhof ;30;5.7;Pin
+Jelle;van de Berg;38465575;24-11-2020;24-11-2020;Halte Munsterkerkhof;Halte Griftstraat;19.52;3.8;Cash
+Camiel;de Bruin;78055940;24-11-2020;24-11-2020;Halte Buurkerkhof;Halte Herman Saftlevenstraat;22.91;4.37;Saldo
+Theodoor;de Bruijn;71427934;23-11-2020;23-11-2020;Halte Onder de Linden;Halte Poortstraat;31.46;6.08;Saldo
+Seto;de Bruyn;77576011;24-11-2020;25-11-2020;Halte Minutensteeg;Halte Minkade;29.21;5.7;Cash
+Jonas;Kuypers;68614176;24-11-2020;24-11-2020;Halte Weteringstraat;Halte Drieharingstraat;5.1;1.14;Cash
+Marthe;Groen;65690684;23-11-2020;24-11-2020;Halte Koningstraat;Halte Bankastraat;31.35;6.08;CreditCard
+Darya;Driessen;26430637;25-11-2020;25-11-2020;Halte Beukstraat;Halte Boorstraat;22.41;4.37;Pin
+Caroline;van der Linden;33525040;24-11-2020;25-11-2020;Halte Hooipoort;Halte Jacobsgasthuissteeg;27.53;5.32;Saldo
+Martina;Dekker;81100374;23-11-2020;23-11-2020;Halte Burgstraat;Halte Kruisstraat;23.52;4.56;Cash
+Mats;Gerritsen;63225774;23-11-2020;23-11-2020;Halte Valkstraat;Halte Vosstraat;24.06;4.75;Saldo
+Victoria;Willemsen;53932139;26-11-2020;26-11-2020;Halte Ooftstraat;Halte Groeneweg;27.18;5.32;Pin
+Madeleine;de Bruyn;38873976;27-11-2020;27-11-2020;Halte Drift;Halte Leuninggang;29.58;5.7;CreditCard
+Jorin;van de Pol;23565476;26-11-2020;27-11-2020;Halte Vleutensche Vaart;Halte Houtensche pad;30.81;5.89;Pin
+Marijn;Hermans;87666092;27-11-2020;27-11-2020;Halte Hofje van Zessen;Halte Diaconiepoort;30.02;5.89;CreditCard
+Laura;Schouten;88647740;28-11-2020;29-11-2020;Halte Hamburgerstraat;Halte Croesestraat;30.9;5.89;CreditCard
+Hanneke;van den Bosch;48479345;25-11-2020;26-11-2020;Halte Kleine Slachtsteeg;Halte Achterstraat 2e;14.87;2.85;Cash
+Zander;Koster;19757283;25-11-2020;25-11-2020;Halte Hoogelanden OZ;Halte Buurkerksteeg 2e;15.03;3.04;Saldo
+Anniek;Willems;64378108;24-11-2020;25-11-2020;Halte Minkade;Halte Daalschedijk 1e;12.77;2.47;Pin
+Sjoukje;van Beek;57627512;25-11-2020;26-11-2020;Halte Roodepoort;Halte Kapelstraat;22.63;4.37;Saldo
+Helga;Kuipers;97135655;28-11-2020;28-11-2020;Halte Billitonkade;Halte Hoogt;25.51;4.94;Saldo
+Aron;van den Pol;57076861;23-11-2020;24-11-2020;Halte Tulpstraat;Halte Kroonhof;2.24;0.57;Saldo
+Robbe;van der Pol;73056682;23-11-2020;24-11-2020;Halte Kloksteeg;Halte Baansteeg 2e;25.16;4.94;Pin
+Cees;Scholten;87087528;26-11-2020;27-11-2020;Halte Jan Houtmanstraat;Halte Korte Elisabethstraat;11.36;2.28;CreditCard
+Serafim;Boer;74051253;28-11-2020;28-11-2020;Halte Kockstraat;Halte Moreelsepark;10.72;2.09;Cash
+Abel;de Boer;84434536;24-11-2020;24-11-2020;Halte Bleekerstraat;Halte Boomstraat;22.67;4.37;Saldo
+Marissa;Jonker;32711348;25-11-2020;25-11-2020;Halte Vlasstraat;Halte Visscherssteeg;27.26;5.32;Saldo
+Marcel;van den Velden;68565963;22-11-2020;23-11-2020;Halte Abel Tasmanstraat;Halte Moutstraat;28.95;5.51;Pin
+Susanna;Jacobs;94607971;23-11-2020;24-11-2020;Halte Leidsche Veer;Halte Hoogt;15.97;3.04;CreditCard
+Renato;Blom;75235482;23-11-2020;23-11-2020;Halte Jacobspoort;Halte Hopstraat;27.68;5.32;Pin
+Cees;van den Bosch;33806495;27-11-2020;27-11-2020;Halte Piet Heinstraat;Halte Cellebroederstraat;14.87;2.85;Cash
+Eric;Janssen;91779005;24-11-2020;24-11-2020;Halte Kleine Lijnpad 1e;Halte Schaapstraat;18.19;3.61;Saldo
+Tamara;Postma;74563706;22-11-2020;23-11-2020;Halte Domplein;Halte Margarethahofje;14.46;2.85;Cash
+Thibaut;Kuijpers;92854164;24-11-2020;24-11-2020;Halte Wijnpoort;Halte Frederiksoord;22.56;4.37;Cash
+Jane;de Groot;22322681;25-11-2020;26-11-2020;Halte Bankaplein;Halte Koningsweg;8.6;1.71;Saldo
+Ricky;van der Wal;84365581;23-11-2020;23-11-2020;Halte Noteboomenlaan;Halte Helling;19.16;3.8;Pin
+Natasja;Molenaar;40414884;22-11-2020;23-11-2020;Halte Sterrenhof;Halte Grutterspoort;29.34;5.7;CreditCard
+Klemen;Molenaar;65553778;26-11-2020;27-11-2020;Halte Billitonkade;Halte Grietstraat;18.65;3.61;Cash
+Angelique;Bakker;69151537;27-11-2020;28-11-2020;Halte Ondiep;Halte Wittevrouwenkade;11.7;2.28;CreditCard
+Ryan;Kok;86233725;27-11-2020;28-11-2020;Halte Hovenstraat;Halte Leidsche Kade;25.24;4.94;Saldo
+Joppe;Smit;26551655;28-11-2020;28-11-2020;Halte Goedestraat;Halte Lanceepoort;20.4;3.99;Pin
+Quincy;Molenaar;85412985;26-11-2020;26-11-2020;Halte Antoniedijk;Halte Leeuwstraat;24.49;4.75;Saldo
+Sumano;Mulder;12397032;27-11-2020;27-11-2020;Halte Kalverstraat;Halte Keizerstraat;31.61;6.08;Saldo
+Just;van Leeuwen;54870818;22-11-2020;22-11-2020;Halte Zaagstraat;Halte Kerksteeg;22.74;4.37;Pin
+Remi;Hendriks;91558561;28-11-2020;28-11-2020;Halte Concordiastraat;Halte Looierstraat;23.19;4.56;Cash
+Nynke;van der Velde;85490721;26-11-2020;27-11-2020;Halte Jansdam;Halte Donkere Gaard;28.28;5.51;Pin
+Mustafa;van de Velden;95338839;22-11-2020;22-11-2020;Halte Begijnesteeg 2e;Halte Rozenstraat;15.33;3.04;Pin
+Kees;Wolters;79007503;27-11-2020;28-11-2020;Halte Wijde Begijnestraat;Halte Borneostraat;25.06;4.94;Pin
+Marieke;Hoekstra;81873541;28-11-2020;28-11-2020;Halte Lijnmarkt;Halte Andreasstraat;15.39;3.04;Pin
+Selma;de Boer;47833195;27-11-2020;27-11-2020;Halte Prooststraat;Halte Acht. De Koekoek;22.52;4.37;CreditCard
+Cornelius;Evers;36810628;27-11-2020;28-11-2020;Halte Draaiweg;Halte Weerdsingel W.Z.;31.03;6.08;Pin
+Pascal;Kuijpers;70767457;27-11-2020;28-11-2020;Halte Hooipoort;Halte Hooipoort;11;2.09;Cash
+Gerk;Bos;59685845;22-11-2020;22-11-2020;Halte Groenesteeg;Halte Spijkerdwarsstraat;28.07;5.51;CreditCard
+Chantal;van den Berg;34723447;23-11-2020;23-11-2020;Halte Zoutmarkt;Halte Militaire Weg;15.65;3.04;Pin
+Trijntje;van der Velde;20644243;22-11-2020;23-11-2020;Halte Hoogravenschedijk;Halte Vinkenbuurt;22.63;4.37;Cash
+Steve;Schipper;67591839;22-11-2020;22-11-2020;Halte Paralelweg;Halte Frederiksoord;28.5;5.51;Saldo
+Sjaak;Timmermans;11690679;23-11-2020;23-11-2020;Halte Domsteeg;Halte Hamsteeg;16.37;3.23;Saldo
+Coen;van Veen;18638410;25-11-2020;26-11-2020;Halte Putsteeg;Halte Stroosteeg;25.28;4.94;Pin
+Leentje;Kuipers;54303913;28-11-2020;28-11-2020;Halte Acht. De Koekoek;Halte Hoogelanden OZ;19.75;3.8;Cash
+Steff;van den Pol;29703584;25-11-2020;25-11-2020;Halte Heemskerkstraat;Halte Leidsche Weg;23.54;4.56;Pin
+Ramesh;van Loon;36538327;25-11-2020;26-11-2020;Halte Boorstraat;Halte Knopstraat;15.36;3.04;Saldo
+Heleen;van de Ven;85504570;23-11-2020;23-11-2020;Halte Florastraat;Halte Knollensteeg;19.92;3.8;Pin
+Jennifer;de Ruiter;46737812;25-11-2020;25-11-2020;Halte Pietersplein;Halte Bleekerskade;31.43;6.08;Cash
+Laurent;van den Brink;66290747;22-11-2020;22-11-2020;Halte Oudegracht (Weerd);Halte Damstraat;14.76;2.85;Pin
+Emma;Koster;70448369;24-11-2020;24-11-2020;Halte Merwedekade;Halte Cellebroederstraat;29.5;5.7;Cash
+Maikel;de Vries;77749796;23-11-2020;24-11-2020;Halte Malakkastraat;Halte Schoutenstraat;13.82;2.66;Pin
+Wietse;van de Wal;92836089;23-11-2020;23-11-2020;Halte Inundatiekade;Halte Mariaplaats;27.06;5.32;Pin
+Serafim;Vos;48962076;22-11-2020;22-11-2020;Halte Bergstraat;Halte Zaagmolenkade;23.35;4.56;CreditCard
+Babette;van de Ven;13859996;24-11-2020;25-11-2020;Halte Baansteeg 1e;Halte Lange Hartsteeg;22.05;4.37;CreditCard
+Joshua;van den Brink;47371968;28-11-2020;29-11-2020;Halte Korte Hamsteeg;Halte Nicolaasweg;30.72;5.89;Saldo
+Tiffany;Smit;55031403;22-11-2020;23-11-2020;Halte Vosstraat;Halte Kuipersteeg;24.94;4.75;Pin
+Natasja;de Wit;49986890;26-11-2020;27-11-2020;Halte Brouwerstraat;Halte Hertestraat;18.97;3.61;Cash
+Lucia;de Jonge;21703827;28-11-2020;29-11-2020;Halte Mariastraat;Halte Schelpstraat;22.41;4.37;CreditCard
+Tjalling;van Dongen;63266283;28-11-2020;28-11-2020;Halte Lamstraat;Halte Tuchthuisstraat;15.1;3.04;Pin
+Anneke;Bos;38494404;27-11-2020;27-11-2020;Halte Gruttersdijk;Halte Takstraat;29.48;5.7;Saldo
+Serge;van Dongen;37393980;24-11-2020;25-11-2020;Halte Amsterdamsestraatweg;Halte Flieruilensteeg;24.25;4.75;Pin
+Kieran;de Boer;56333765;23-11-2020;24-11-2020;Halte Lekstraat;Halte Lange Jufferstraat;19.7;3.8;Saldo
+Guido;Blom;24732678;23-11-2020;24-11-2020;Halte Bollenhofschestraat;Halte Speykstraat (van);27.5;5.32;CreditCard
+Cecilia;de Bruijn;92173393;25-11-2020;25-11-2020;Halte Spiegelpoort;Halte Kroonhof;27.35;5.32;Saldo
+Willy;Hoekstra;17197812;22-11-2020;22-11-2020;Halte Hartingstraat;Halte Kruisstraat;21.59;4.18;Cash
+Francis;van der Pol;10295436;26-11-2020;26-11-2020;Halte Korte Jufferstraat;Halte Nauwe Begijnesteeg;12.25;2.47;Cash
+Boris;de Bruyn;75420424;28-11-2020;28-11-2020;Halte Werf a.d. Twijnstraat;Halte Wolvenstraat;23.83;4.56;Cash
+Sabrina;Jansen;39645878;22-11-2020;23-11-2020;Halte Spindersteeg;Halte Roggestraat;24.58;4.75;Cash
+Sam;van Beek;21481950;27-11-2020;28-11-2020;Halte Korte Koestraat;Halte Korte Jansstraat;13.56;2.66;Pin
+Ilona;de Haan;39083268;22-11-2020;23-11-2020;Halte Zeedijk;Halte Bergstraat;25.14;4.94;Saldo
+Koenraad;Smeets;18804514;24-11-2020;24-11-2020;Halte Singelsteeg;Halte Varkenmarkt;27.48;5.32;Pin
+Kai;van den Velde;84218712;23-11-2020;23-11-2020;Halte Kovelaarstraat;Halte Kruisweg;29.98;5.7;Cash
+Lieven;Dekker;85568583;22-11-2020;22-11-2020;Halte Zonstraat;Halte Bem. Weerd OZ;24.8;4.75;Cash
+Noah;Sanders;83967410;25-11-2020;26-11-2020;Halte Spieringpoort;Halte Hekelsteeg;26.23;5.13;Pin
+Angelo;Brouwer;58722645;25-11-2020;26-11-2020;Halte Schutstraat;Halte Kruitstraat;24.98;4.75;Saldo
+Aleida;van der Berg;54712543;24-11-2020;25-11-2020;Halte Nieuwe Keizersgracht;Halte Jacobskerksteeg;24.35;4.75;Cash
+Carla;van Beek;26165654;28-11-2020;28-11-2020;Halte Westerdijk;Halte Werfsteeg;18.03;3.61;CreditCard
+Hilco;van der Velden;79053218;22-11-2020;23-11-2020;Halte Haverstraat;Halte Appelstraat;6.48;1.33;CreditCard
+Jelmer;Jacobs;41675482;24-11-2020;24-11-2020;Halte Markstraat;Halte Minrebroederstraat;28.41;5.51;Saldo
+Wessel;Hermans;43640335;27-11-2020;28-11-2020;Halte Mariaplaats;Halte Gansstraat;29.36;5.7;Saldo
+Mink;de Boer;26872584;25-11-2020;26-11-2020;Halte Zandpad;Halte Middellaan;28.46;5.51;Cash
+Viktor;de Jonge;10607105;22-11-2020;23-11-2020;Halte Nicolaaskerkhof;Halte Blindesteeg;29.21;5.7;Cash
+Charissa;van Dijk;79528684;25-11-2020;25-11-2020;Halte Biltstraat;Halte Bolstraat;28.98;5.51;Cash
+Florence;Gerritsen;26322459;26-11-2020;26-11-2020;Halte Concordiastraat;Halte Hieronymusplein;29.92;5.7;Cash
+Jacco;Bosman;25251611;26-11-2020;26-11-2020;Halte Daalschedijk 2e;Halte Nieuwe Kade;30.28;5.89;CreditCard
+Wilco;de Vries;72403922;24-11-2020;25-11-2020;Halte Pallaesstraat;Halte Weidesteeg;30.4;5.89;Pin
+Danny;van de Brink;77333387;22-11-2020;23-11-2020;Halte Waterpoort;Halte Koningsweg;22.27;4.37;Pin
+Fedde;Peeters;94982741;27-11-2020;28-11-2020;Halte Ridderschapstraat;Halte Lange Nieuwstraat;29.44;5.7;Pin
+Quinn;Smits;69259456;23-11-2020;24-11-2020;Halte Heerenhofje;Halte Berkstraat;18.44;3.61;Saldo
+Bas;van der Berg;38752483;28-11-2020;29-11-2020;Halte Visscherssteeg;Halte Voorstraat;29.12;5.7;Cash
+Joke;van der Wal;43599364;22-11-2020;22-11-2020;Halte Achterstraat 1e;Halte Buurkerkhof;3.61;0.76;CreditCard
+Joes;van den Velde;15297967;24-11-2020;25-11-2020;Halte Gildstraat;Halte Raamsteeg;11.7;2.28;Saldo
+Jolanda;Dekker;98097911;23-11-2020;24-11-2020;Halte Antoniedijk;Halte Kruisdwarsstraat;26.83;5.13;Cash
+Raief;Hendriks;30221929;26-11-2020;26-11-2020;Halte Jasmijnstraat;Halte Nachtegaalstraat;13.45;2.66;Cash
+Sem;de Ruiter;60586126;26-11-2020;27-11-2020;Halte Buys Ballotstraat;Halte Oorsprongpark;29.14;5.7;Cash
+Joras;Vink;52204157;26-11-2020;26-11-2020;Halte Abel Tasmanstraat;Halte Schalkwijkstraat;12.04;2.47;Saldo
+Geeske;van der Velden;70166660;26-11-2020;27-11-2020;Halte Singelstraat;Halte Visscherssteeg;7.35;1.52;Cash
+Nigel;Prins;44695057;25-11-2020;26-11-2020;Halte Spechtstraat 2e;Halte Jacobsplein;12.29;2.47;CreditCard
+Jasmijn;Brouwer;86247353;22-11-2020;22-11-2020;Halte Kraanhof;Halte Bellamystraat;29.34;5.7;Saldo
+Tessa;van Vliet;44866457;25-11-2020;26-11-2020;Halte Gerard Doustraat;Halte Heerenstraat;5.48;1.14;Cash
+Marcus;Verhoeven;14126900;28-11-2020;29-11-2020;Halte Jan Meyenstraat;Halte Damstraat;28.3;5.51;Saldo
+Hilda;Kuypers;81927067;25-11-2020;26-11-2020;Halte Leidschedwarsstraat;Halte Badstraat;21.26;4.18;Cash
+Belinda;Driessen;14020205;28-11-2020;28-11-2020;Halte Jacobskerkstraat;Halte Slachtsteeg;24.47;4.75;CreditCard
+Jos;Sanders;77868995;26-11-2020;26-11-2020;Halte Helling;Halte Lagenoord;9.64;1.9;Cash
+Joris;Veenstra;71463599;23-11-2020;24-11-2020;Halte Badstraat;Halte Paarlstraat;7.48;1.52;Cash
+Carlos;van de Velde;63910975;27-11-2020;27-11-2020;Halte Papaverstraat;Halte Minkade;24.31;4.75;Cash
+Hope;Visser;69660846;28-11-2020;28-11-2020;Halte Zwaansteeg;Halte Schoolplein;27.46;5.32;Saldo
+Leopold;de Vries;15225006;27-11-2020;28-11-2020;Halte Bouwstraat;Halte Jansteeg;23.64;4.56;CreditCard
+Freddie;van der Linden;84569932;22-11-2020;23-11-2020;Halte Groenestraat;Halte Lange Hamstraat;24.37;4.75;Pin
+Lien;Koster;47258838;25-11-2020;26-11-2020;Halte Brandsteeg;Halte Westerstraat;22.91;4.37;Cash
+Rafael;van Wijk;42207849;26-11-2020;26-11-2020;Halte Keizershof;Halte Takstraat;21.49;4.18;Cash
+Riny;de Ruiter;44958164;28-11-2020;28-11-2020;Halte Dadelstraat;Halte Kaatstraat;30.51;5.89;Cash
+Gust;Hoekstra;19718955;26-11-2020;26-11-2020;Halte Achterstraat;Halte Jan van Scorelstraat;24.96;4.75;CreditCard
+Julie;van Leeuwen;73843199;28-11-2020;29-11-2020;Halte Kwakkeldijk;Halte Daendelsstraat;18.87;3.61;Cash
+Sam;Visser;42833785;26-11-2020;27-11-2020;Halte Grutterspoort;Halte Stijfselsteeg;30.32;5.89;Cash
+Carla;van de Wal;69434682;28-11-2020;29-11-2020;Halte Runnebaan;Halte Schepenmakerssteeg;9.11;1.9;Cash
+Hilco;de Wit;14898101;28-11-2020;29-11-2020;Halte Vredeplaats;Halte Zilversteeg;14.97;2.85;Pin
+Miriam;van Dijk;53959532;25-11-2020;25-11-2020;Halte Oudegracht (Weerd);Halte Driehoek;30.45;5.89;Saldo
+Jent;Schipper;72208203;25-11-2020;26-11-2020;Halte Potterstraat;Halte Rotsoord;4.24;0.95;Pin
+Jos;Huisman;66747011;22-11-2020;22-11-2020;Halte Korte Viestraat;Halte Domtrans;30.45;5.89;Pin
+Jelmer;Hendriks;51310637;25-11-2020;26-11-2020;Halte Mariaplaats;Halte Abel Tasmanstraat;23.87;4.56;Cash
+Geertje;Peters;97207808;22-11-2020;22-11-2020;Halte Amsterdamsestraatweg;Halte Waterpoort;25.26;4.94;Pin
+Jay;Blom;98298394;24-11-2020;24-11-2020;Halte Graanstraat;Halte Goedestraat;17.58;3.42;Pin
+Dick;Postma;57476559;23-11-2020;23-11-2020;Halte Ekerenspoort;Halte Nauwe Watersteeg;13.71;2.66;Cash
+Deborah;Kuipers;31808567;28-11-2020;28-11-2020;Halte Joh. Willem Frisostraat;Halte Molensteeg;30.5;5.89;Saldo
+Marinus;de Jong;40769137;23-11-2020;23-11-2020;Halte Violenstraat;Halte Grutterspoort;19.85;3.8;Pin
+Miroslav;van den Berg;67435623;24-11-2020;25-11-2020;Halte Hanengeschrei;Halte Gasthuissteeg;25.16;4.94;Pin
+Xena;de Leeuw;26951406;28-11-2020;28-11-2020;Halte Daalschedijk 2e;Halte Kievitstraat;14.21;2.85;CreditCard
+Eveline;de Haan;64019166;22-11-2020;23-11-2020;Halte Kaatstraat;Halte Baarssteeg;22.23;4.37;Cash
+Ruth;Kuiper;23420107;23-11-2020;23-11-2020;Halte Vijfzusterpoort;Halte Domsteeg;19.87;3.8;CreditCard
+Urbanus;Groen;35024725;26-11-2020;26-11-2020;Halte Brinkhof;Halte Daalschedijk 1e;5.2;1.14;CreditCard
+Adolf;Sanders;14683907;24-11-2020;24-11-2020;Halte Muntsteeg;Halte Atjehstraat 1e;25.28;4.94;Pin
+Froukje;de Leeuw;88409339;25-11-2020;25-11-2020;Halte Nauwe Watersteeg;Halte Gogschesteeg;28.57;5.51;Pin
+Cornelis;de Jonge;22632891;28-11-2020;29-11-2020;Halte Amsterdamsestraatweg;Halte Daelstraat;12.45;2.47;CreditCard
+Jent;van de Wal;88673684;28-11-2020;29-11-2020;Halte Pijlsweertstraat;Halte Minstraat;20.71;3.99;Cash
+Ilona;Molenaar;76073350;25-11-2020;26-11-2020;Halte Stationsplein;Halte Zeedijk;11.92;2.28;Cash
+Lolle;van Vliet;14228880;25-11-2020;25-11-2020;Halte Molensteeg;Halte Zuilensteeg;22.18;4.37;CreditCard
+Erin;Kuipers;65106616;25-11-2020;25-11-2020;Halte Kanaalstraat;Halte Wijde Begijnestraat;26.55;5.13;CreditCard
+Marjolein;de Bruin;67937421;28-11-2020;29-11-2020;Halte Lijnmarkt;Halte Jacobskerksteeg;10.77;2.09;Pin
+Sjimmie;van der Meulen;39817479;27-11-2020;28-11-2020;Halte Drift;Halte Tolsteegbrug;31.43;6.08;Saldo
+Amy;van Beek;61391377;23-11-2020;24-11-2020;Halte Lindestraat;Halte Lange Lauwerstraat;22.83;4.37;Saldo
+Laurent;Verhoeven;16872744;22-11-2020;22-11-2020;Halte Beekstraat;Halte Lakmoessteeg;29.78;5.7;Saldo
+Norwin;Mulder;97626956;22-11-2020;22-11-2020;Halte Oosterkade;Halte Oudwijkerlaan;27.22;5.32;Saldo
+Caro;de Bruyn;52388298;23-11-2020;23-11-2020;Halte Kerkweg;Halte Boorstraat;18.06;3.61;Cash
+Ludo;van der Veen;74933328;28-11-2020;29-11-2020;Halte Laurens Reaalstraat;Halte Jansveld;13.93;2.66;Pin
+Lammert;Smit;84935437;22-11-2020;23-11-2020;Halte Bloemstraat;Halte Tolsteegsingel W.Z.;14;2.66;Pin
+Lars;de Vos;63667851;23-11-2020;23-11-2020;Halte Kroonhof;Halte Sumatrastraat;28.72;5.51;Cash
+Adriaan;de Bruin;24316675;24-11-2020;24-11-2020;Halte Schaapstraat;Halte Lekstraat;29.05;5.7;CreditCard
+Russell;Wolters;18455790;27-11-2020;27-11-2020;Halte Hamsteeg;Halte Borneostraat;26.29;5.13;Saldo
+Auke;van der Ven;39763249;27-11-2020;27-11-2020;Halte Vaartschestraat;Halte Oorsprongpark;30.17;5.89;CreditCard
+Rens;Post;18110490;27-11-2020;28-11-2020;Halte Domplein;Halte Corn. Evertsenstraat;26.63;5.13;Cash
+Robert;Mol;37082345;28-11-2020;28-11-2020;Halte Oudegracht (Tolst.);Halte Jansdam;31.46;6.08;Cash
+Jade;de Wit;35301791;23-11-2020;24-11-2020;Halte Braamstraat;Halte Ekerenspoort;9.27;1.9;Saldo
+Mathias;Blom;56498611;28-11-2020;29-11-2020;Halte Kr. Elleboogsteeg;Halte Hoogeland;29.51;5.7;Saldo
+Reuven;Koning;39662732;22-11-2020;22-11-2020;Halte Paralelweg;Halte Schelpstraat;13.38;2.66;CreditCard
+Wessel;Dijkstra;65429932;23-11-2020;24-11-2020;Halte Jagerskade;Halte Bankstraat;11.36;2.28;Pin
+Fenne;Bosman;42606231;22-11-2020;23-11-2020;Halte Schepenmakerssteeg;Halte Laan van Croes;23.79;4.56;Saldo
+Stephan;van der Velde;50401053;24-11-2020;24-11-2020;Halte Bijlhouwerstraat;Halte Hoog Glagenweerd;7;1.33;CreditCard
+Noah;Driessen;98746595;27-11-2020;28-11-2020;Halte Kl. Geertekerkhof;Halte Heemskerkstraat;12.17;2.47;Saldo
+Tessa;Willemsen;51899210;27-11-2020;27-11-2020;Halte Pieterseliesteegje;Halte Diaconessenstraat;28.76;5.51;CreditCard
+Mats;de Jonge;71095041;23-11-2020;23-11-2020;Halte Narcisstraat;Halte Zeilsteeg;21.68;4.18;CreditCard
+Kalle;Verhoeven;30449757;22-11-2020;23-11-2020;Halte Oranjehofje;Halte Draaiweg;28.72;5.51;Pin
+Celine;Willems;84463315;25-11-2020;26-11-2020;Halte Steenweg;Halte Drift;10.1;2.09;CreditCard
+Maarten;Meyer;40946381;24-11-2020;24-11-2020;Halte Hulststraat;Halte Heerenhofje;22.61;4.37;Saldo
+Freek;van Veen;81235964;22-11-2020;22-11-2020;Halte Munsterkerkhof;Halte Poortstraat;25.81;4.94;Saldo
+Hayley;de Groot;45532892;22-11-2020;23-11-2020;Halte Koningslaan;Halte Ondiep;9.59;1.9;Saldo
+Ilja;Jonker;62892015;24-11-2020;25-11-2020;Halte Wijckstraat (van);Halte Leuningsteeg;27.28;5.32;Saldo
+Olivia;Schouten;98456341;24-11-2020;25-11-2020;Halte Joh. Willem Frisostraat;Halte Lanceepoort;2.24;0.57;Pin
+Angelica;de Bruijn;57037496;26-11-2020;27-11-2020;Halte Belthlehemscheweg;Halte hazelaarstraat;13.86;2.66;CreditCard
+Marc;de Vries;56842650;28-11-2020;29-11-2020;Halte Zoutmarkt;Halte Baanstraat;21.95;4.18;Pin
+Arne;van de Wal;80628288;28-11-2020;29-11-2020;Halte Visschersplein;Halte Nobelstraat;31.54;6.08;Pin
+Theodoor;Kramer;59371628;25-11-2020;26-11-2020;Halte Wijde Watersteeg;Halte Ledig Erf;19.05;3.8;Pin
+Tiemen;Veenstra;74493165;22-11-2020;23-11-2020;Halte Hertestraat;Halte Maetsuijkerstraat;13.34;2.66;Pin
+Miranda;Prins;36634361;22-11-2020;23-11-2020;Halte Tuinsteeg;Halte Spieringpoort;22.34;4.37;Pin
+Wendy;Willems;78953381;26-11-2020;27-11-2020;Halte Harpstraat;Halte Ekerenspoort;27;5.13;Pin
+Wijnand;van Beek;59985461;23-11-2020;24-11-2020;Halte Willem van Noortstraat;Halte Oudegracht (Tolst.);23.52;4.56;Cash
+Dana;Janssen;38662543;27-11-2020;27-11-2020;Halte Tuinsteeg;Halte Vrijhof ;28.35;5.51;Pin
+Nova;Jacobs;12070523;24-11-2020;24-11-2020;Halte Kr. Nieuwegracht;Halte Wolfstraat;17.15;3.42;Pin
+Kees;Koning;92839232;25-11-2020;25-11-2020;Halte Mineurslaan;Halte Westerstraat;7.94;1.52;Pin
+Thea;Schouten;13861173;23-11-2020;24-11-2020;Halte Bellamystraat;Halte Kruisstraat;29.46;5.7;Pin
+Quentin;Kok;29232491;28-11-2020;29-11-2020;Halte Vleutensche Weg;Halte Vleutensche Vaart;25.67;4.94;Cash
+Sylvester;Boer;98252953;27-11-2020;27-11-2020;Halte Asterstraat;Halte Croeselaan;29.24;5.7;Saldo
+Joes;van den Bosch;87346735;27-11-2020;28-11-2020;Halte Ondiep;Halte Magdalenastraat;27.06;5.32;CreditCard
+Melle;van den Heuvel;60769071;23-11-2020;23-11-2020;Halte Alendorpsteeg;Halte Parkstraat;19.42;3.8;Pin
+Charissa;van der Meulen;34693596;22-11-2020;23-11-2020;Halte Vleutensche Vaart;Halte Pieterstraat;9.64;1.9;Saldo
+Ilona;de Leeuw;14197300;22-11-2020;23-11-2020;Halte Bakkerspoort;Halte Lange Jansstraat;12.12;2.47;Pin
+Kobus;Driessen;25442874;24-11-2020;25-11-2020;Halte Korte Smeestraat;Halte Houtensche pad;17.61;3.42;CreditCard
+Johanna;de Bruin;63692274;24-11-2020;24-11-2020;Halte Tuchthuisstraat;Halte Beukstraat;30.97;5.89;Cash
+Dave;van de Meer;74013605;25-11-2020;26-11-2020;Halte Frederikastraat;Halte Zeilsteeg;31.48;6.08;Cash
+Jeannette;Mulder;51188786;24-11-2020;24-11-2020;Halte Wed;Halte Boothstraat;21.63;4.18;Saldo
+Ruslan;Willemsen;13794420;22-11-2020;23-11-2020;Halte Schoolplein;Halte Keukenstraat;19.39;3.8;Saldo
+Karina;Kuipers;68379178;25-11-2020;26-11-2020;Halte Kanaalstraat;Halte Graanstraat;8.66;1.71;Saldo
+Harold;van den Velden;67476182;26-11-2020;27-11-2020;Halte Amsterdamsestraatweg;Halte Vischmarkt;30.08;5.89;Pin
+Vik;van der Berg;87717547;25-11-2020;26-11-2020;Halte Imhoffstraat (van);Halte Hoogravenschedijk;23.96;4.56;Pin
+Tiffany;Hofman;77470787;25-11-2020;26-11-2020;Halte Schutterstraat;Halte Middellaan;9.85;1.9;CreditCard
+Mathias;Gerritsen;68945148;26-11-2020;27-11-2020;Halte Hooipoort;Halte Mariahoek;24.06;4.75;Saldo
+Mathieu;Post;82856583;25-11-2020;26-11-2020;Halte Turfstraat;Halte Muntsteeg;20.59;3.99;Pin
+Wout;Janssen;91788899;26-11-2020;26-11-2020;Halte Neude;Halte Wijnpoort;28.3;5.51;Cash
+Okke;de Groot;53129790;22-11-2020;23-11-2020;Halte Hekelsteeg;Halte Adelaarstraat;31.11;6.08;CreditCard
+Sharon;van Loon;62214377;24-11-2020;24-11-2020;Halte Eikstraat;Halte Kraanhof;16.4;3.23;CreditCard
+Rakesh;Meyer;22798900;28-11-2020;28-11-2020;Halte Driesprong;Halte Violenstraat;6.78;1.33;Pin
+Anna;van Veen;46177026;27-11-2020;27-11-2020;Halte Koekoeksplein;Halte Achter den Dom;13.89;2.66;Pin
+Alida;Smeets;47246888;28-11-2020;28-11-2020;Halte Emmalaan;Halte Leerstraat;29.68;5.7;Cash
+Lennaert;de Vos;19944644;24-11-2020;25-11-2020;Halte Wittevrouwensingel;Halte Oosterkade;27.59;5.32;Saldo
+Joram;Groen;15227040;28-11-2020;28-11-2020;Halte Westravenstraat;Halte Bremstraat;4.12;0.95;CreditCard
+Maud;de Graaf;50288038;26-11-2020;26-11-2020;Halte Bakkerspoort;Halte Hoogelanden OZ;31.46;6.08;Pin
+August;de Lange;81830660;27-11-2020;28-11-2020;Halte Takstraat;Halte Kwakkeldijk;30.22;5.89;Pin
+Philippe;Postma;21370109;27-11-2020;28-11-2020;Halte Reguliersteeg;Halte Malakkastraat;16.73;3.23;CreditCard
+Erica;Postma;99702274;24-11-2020;24-11-2020;Halte Billitonstraat;Halte Gasthuissteeg;27.11;5.32;Pin
+Jenny;Huisman;25983770;25-11-2020;26-11-2020;Halte Leidsche Weg;Halte Zandpad;17.75;3.42;CreditCard
+Heiltje;van den Heuvel;56743912;26-11-2020;26-11-2020;Halte Kwakkeldijk;Halte Goudsbloemstraat;26.42;5.13;CreditCard
+Milou;van de Pol;35464086;27-11-2020;28-11-2020;Halte Westerkade;Halte Werfsteeg;23.3;4.56;Saldo
+Nina;van Doorn;47710711;27-11-2020;27-11-2020;Halte Weidesteeg;Halte Kleine Slachtsteeg;17.64;3.42;Saldo
+Junior;Peters;90989676;23-11-2020;23-11-2020;Halte Domtoren;Halte Spieringpoort;17.2;3.42;Saldo
+Nadi;de Bruijn;50835650;23-11-2020;23-11-2020;Halte Kievitdwarsstraat;Halte Willem van Noortstraat;22.85;4.37;Cash
+Stephanos;Driessen;70854366;23-11-2020;24-11-2020;Halte Bem. Weerd WZ;Halte Suikerstraat;28.93;5.51;Cash
+Magdalena;van der Wal;48688794;27-11-2020;28-11-2020;Halte Tuinsteeg;Halte Dijkstraat;23.87;4.56;Pin
+Boudewijn;van den Heuvel;62177524;23-11-2020;24-11-2020;Halte Hoogravenschedijk;Halte Kapelstraat;15.07;3.04;Cash
+Louis;Jansen;90866585;24-11-2020;24-11-2020;Halte Jacob Ruysdaelstraat;Halte Hekelsteeg;25.67;4.94;Saldo
+Cor;van de Wal;27866797;22-11-2020;23-11-2020;Halte Willem van Noortstraat;Halte Maliestraat;25.32;4.94;Saldo
+Jelger;Verhoeven;58348509;24-11-2020;25-11-2020;Halte Nobelstraat;Halte Steenstraat;19.54;3.8;Cash
+Jurriaan;Janssen;56417409;24-11-2020;24-11-2020;Halte Bladstraat;Halte Wijde Watersteeg;25.16;4.94;Pin
+Jannes;Hendriks;78076272;22-11-2020;23-11-2020;Halte Hardebollenstraat;Halte Pieter Saenredamstraat;27.64;5.32;Pin
+Margot;de Jong;95902031;23-11-2020;23-11-2020;Halte Poortstraat;Halte Vleutensche Weg;15.3;3.04;Saldo
+Luca;van der Meulen;27534149;23-11-2020;23-11-2020;Halte Weerdsingel O.Z.;Halte Schoolplein;1;0.19;Cash
+Xena;van Veen;46147660;27-11-2020;28-11-2020;Halte Koekoeksplein;Halte Bladstraat;12.49;2.47;Cash
+Gaetan;Brouwer;45659027;24-11-2020;25-11-2020;Halte Bouwstraat;Halte Rembrandtkade;31.43;6.08;Saldo
+Eddy;van de Brink;45082121;26-11-2020;27-11-2020;Halte Alphenplein (van);Halte Oranjehofje;24.94;4.75;Cash
+Melanie;Evers;88154520;22-11-2020;23-11-2020;Halte Ramstraat;Halte Achterstraat 1e;30.32;5.89;CreditCard
+Elias;van der Linden;97827924;26-11-2020;26-11-2020;Halte Billitonkade;Halte Nieuwe Kamp;22.14;4.37;Pin
+Govert;Postma;69741364;22-11-2020;22-11-2020;Halte Lange Rietsteeg;Halte Ramstraat;27.07;5.32;Saldo
+Ibrahim;van de Velde;60459072;25-11-2020;25-11-2020;Halte Hardebollenstraat;Halte Reguliersteeg;22.96;4.37;CreditCard
+Ibrahim;van der Linden;76123533;28-11-2020;29-11-2020;Halte Voorstraat;Halte Boorstraat;24.37;4.75;Cash
+Jelger;de Bruijn;50559732;23-11-2020;24-11-2020;Halte Begijnekade;Halte Narcisstraat;28.55;5.51;Pin
+Willeke;Bosman;97964742;22-11-2020;23-11-2020;Halte Leliestraat;Halte Leuninggang;28.16;5.51;Cash
+Luc;Scholten;90201602;28-11-2020;29-11-2020;Halte Slachtsteeg;Halte Keizerstraat;27.48;5.32;Saldo
+Jonatan;Kuijpers;54263502;26-11-2020;27-11-2020;Halte Heerenhofje;Halte Lekstraat;25.85;4.94;Pin
+Erna;de Jong;73467839;28-11-2020;29-11-2020;Halte Haagstraat;Halte Begijnesteeg 1e;25.1;4.94;Saldo
+Scott;Verhoeven;54406843;26-11-2020;27-11-2020;Halte Hardebollenstraat;Halte Spijkerdwarsstraat;26.27;5.13;Saldo
+Jochen;Kuiper;80254844;28-11-2020;28-11-2020;Halte Lekstraat;Halte Hoek v. St. Marie;14.56;2.85;Saldo
+Maria;Bosman;20559041;26-11-2020;27-11-2020;Halte Zandpad;Halte Laan van Croes;28.76;5.51;Cash
+Leonard;van den Velde;62004158;26-11-2020;27-11-2020;Halte Spijkerstraat;Halte Malakkastraat;17.66;3.42;Saldo
+Marike;de Bruijn;84515331;22-11-2020;23-11-2020;Halte Maliebaan;Halte Drakenburgsteeg;15.23;3.04;CreditCard
+Ramesa;van Dijk;27662319;25-11-2020;25-11-2020;Halte Vleutensche Weg;Halte Leerstraat;22.93;4.37;Saldo
+Alexander;van de Ven;26634715;27-11-2020;27-11-2020;Halte Kromme Rijn;Halte Korte Minrebroederstraat;28.27;5.51;CreditCard
+Antoine;Bosman;64986745;25-11-2020;25-11-2020;Halte Mariahofje;Halte Kockstraat;30.17;5.89;CreditCard
+Arjen;Dijkstra;84345707;25-11-2020;25-11-2020;Halte Kweekstraat;Halte Leidsche Weg;20.52;3.99;Saldo
+Guy;Groen;16576654;24-11-2020;24-11-2020;Halte Korte Koestraat;Halte Diemenstraat;20.3;3.99;Cash
+Fenna;Vos;84029905;27-11-2020;27-11-2020;Halte Havikstraat;Halte Lagenoord;29.98;5.7;CreditCard
+Tjalling;van den Broek;66891739;26-11-2020;27-11-2020;Halte Daalschedijk 2e;Halte Lange Jufferstraat;11.36;2.28;Pin
+Yuri;van Wijk;61491582;24-11-2020;25-11-2020;Halte Wijde Watersteeg;Halte Kovelaarstraat;9.85;1.9;Saldo
+Yvan;Hoekstra;56360247;22-11-2020;23-11-2020;Halte Groenesteeg;Halte Stadhouderslaan;23.73;4.56;Cash
+Lisanne;de Graaf;74613662;26-11-2020;26-11-2020;Halte Bladstraat;Halte Gildstraat;6.56;1.33;Pin
+Jessie;van de Wal;16038284;27-11-2020;27-11-2020;Halte Alphenplein (van);Halte Vlasstraat;21.47;4.18;Cash
+Emmanuel;van Dijk;16758499;24-11-2020;24-11-2020;Halte Roggestraat;Halte Koningslaan;19.26;3.8;Cash
+Gijs;Hoekstra;43551292;23-11-2020;23-11-2020;Halte Duifstraat;Halte Begijnesteeg 2e;20.45;3.99;CreditCard
+Reinier;de Boer;56320463;26-11-2020;27-11-2020;Halte Balistraat;Halte Korte Rietsteeg;16.55;3.23;Saldo
+Jan Jaap;Hermans;90137356;28-11-2020;28-11-2020;Halte Kr. Nieuwegracht;Halte Pieter Saenredamstraat;17;3.23;CreditCard
+Okke;van Beek;97383335;22-11-2020;23-11-2020;Halte Kogelsteeg;Halte Atjehstraat 1e;29.12;5.7;Cash
+Pablo;van der Horst;57954190;24-11-2020;25-11-2020;Halte Koningslaan;Halte Gasthuissteeg;23.17;4.56;Cash
+Christa;Koster;18472701;25-11-2020;25-11-2020;Halte Iepstraat;Halte Moreelselaan;11.83;2.28;Pin
+Antonie;van der Ven;78199013;23-11-2020;23-11-2020;Halte M.H. Trompstraat;Halte Hanengeschrei;20.27;3.99;Saldo
+Gary;van Dijk;94902567;26-11-2020;27-11-2020;Halte Fabriekstraat;Halte Hamburgerstraat;28.79;5.51;Saldo
+Janos;Maas;33752331;23-11-2020;24-11-2020;Halte Wijckskade (van);Halte Lakmoessteeg;30.5;5.89;CreditCard
+Christianne;de Leeuw;17580259;24-11-2020;25-11-2020;Halte Harpstraat;Halte Buurkerkhof;26.59;5.13;Cash
+Sjoukje;van Loon;42832776;23-11-2020;24-11-2020;Halte Nauwe Begijnesteeg;Halte Oudegracht (Tolst.);25.3;4.94;Pin
+Peer;de Vos;71338524;27-11-2020;28-11-2020;Halte Leidsche Weg;Halte hazelaarstraat;29.21;5.7;Saldo
+Lammert;van Leeuwen;32455584;23-11-2020;23-11-2020;Halte Kolfstraat;Halte Buurkerkhof;10.77;2.09;Saldo
+Astrid;Boer;49772583;27-11-2020;28-11-2020;Halte M.H. Trompstraat;Halte Weerdsingel W.Z.;23.09;4.56;CreditCard
+Marjan;Bosch;85151274;26-11-2020;27-11-2020;Halte Bregittenstraat;Halte Daalschedijk 2e;22.89;4.37;Saldo
+Jorg;Gerritsen;95357886;26-11-2020;26-11-2020;Halte Koolstraat;Halte Alphenstraat (van);26.72;5.13;Pin
+Glenn;van Dam;60561053;28-11-2020;28-11-2020;Halte Emmalaan;Halte Doornboomstraat;20.93;3.99;CreditCard
+Mette;van den Broek;48667258;22-11-2020;22-11-2020;Halte Tuinsteeg;Halte Maliesingel;30.94;5.89;CreditCard
+Logan;van der Heyden;17954709;24-11-2020;25-11-2020;Halte Bokstraat;Halte Houtensche pad;16.85;3.23;Pin
+Antoine;Gerritsen;73242075;25-11-2020;26-11-2020;Halte Kindgenshaven;Halte Catharijnesingel;30.17;5.89;Pin
+Mathieu;van den Heuvel;89267121;26-11-2020;27-11-2020;Halte Riemstraat;Halte Vrouwjuttenstraat;29.51;5.7;Saldo
+Klemen;de Bruyn;17779524;27-11-2020;28-11-2020;Halte Beverstraat;Halte Grave van Solmsstraat;7.28;1.52;Saldo
+Denise;Peters;78999549;22-11-2020;22-11-2020;Halte Moesstraat;Halte Stationsstraat;19.75;3.8;CreditCard
+Sepp;Molenaar;36378409;22-11-2020;23-11-2020;Halte Oranjestraat;Halte Wijde Doelen;23.15;4.56;Pin
+Manon;van den Velden;87984160;22-11-2020;22-11-2020;Halte Jacobsgasthuissteeg;Halte Lombardpoort;26.76;5.13;Pin
+Carina;Kok;62285860;22-11-2020;22-11-2020;Halte Achterstraat 1e;Halte Ezelsdijk;24.15;4.75;Pin
+Zander;Kuiper;28618964;25-11-2020;25-11-2020;Halte Daendelsstraat;Halte Riemstraat;21.56;4.18;Saldo
+Juliana;van der Meulen;87033820;23-11-2020;24-11-2020;Halte Zoutmarkt;Halte Spoorstraat;12;2.28;CreditCard
+Tobias;van Beek;10240404;28-11-2020;29-11-2020;Halte Papaverstraat;Halte Pauwstraat;18.6;3.61;Saldo
+Tara;Verhoeven;46833410;27-11-2020;28-11-2020;Halte Hofje van Zessen;Halte Stroomkade;17.49;3.42;CreditCard
+Wilbert;van de Berg;76216175;23-11-2020;24-11-2020;Halte Braamstraat;Halte Brakelstraat (van);8.37;1.71;CreditCard
+Fiene;Meyer;24221688;28-11-2020;28-11-2020;Halte Zwaansteeg;Halte Hugo de Grootstraat;18.76;3.61;Pin
+Lianne;Prins;23133299;27-11-2020;27-11-2020;Halte Jan Meyenstraat;Halte Moutstraat;24.78;4.75;Cash
+Rens;de Lange;41156675;22-11-2020;23-11-2020;Halte Spijkerstraat;Halte Johan e Wittstraat;20.25;3.99;CreditCard
+Alain;van de Meer;35701096;25-11-2020;26-11-2020;Halte Kockstraat;Halte Tolsteegsingel W.Z.;28.27;5.51;Saldo
+Boris;Smeets;95401969;28-11-2020;28-11-2020;Halte Hugo de Grootstraat;Halte Oosterbuurt;14.46;2.85;Saldo
+Alexandra;Brouwer;45173720;26-11-2020;26-11-2020;Halte Pijlsweertstraat;Halte hazelaarstraat;24.86;4.75;Pin
+Annet;Prins;15857021;22-11-2020;22-11-2020;Halte Kranenburg;Halte Kievitdwarsstraat;17.12;3.42;Saldo
+Geertruida;van der Heijden;28872231;28-11-2020;28-11-2020;Halte Tolsteegsingel W.Z.;Halte Werf a.d. Twijnstraat;8.6;1.71;Cash
+Johannes;Smit;52045319;27-11-2020;27-11-2020;Halte Veldstraat;Halte Groote Eligensteeg;30.95;5.89;CreditCard
+Meike;Blom;24538393;22-11-2020;23-11-2020;Halte Koningspoort;Halte Wagendwarsstraat;22.78;4.37;Pin
+Herbert;de Jonge;70298692;27-11-2020;28-11-2020;Halte Meidoornstraat;Halte Korte Jansstraat;16;3.04;Pin
+Junior;van den Berg;64395335;23-11-2020;23-11-2020;Halte Goedestraat;Halte Kroonstraat;11.09;2.28;Pin
+Yvan;van de Velden;96875714;26-11-2020;27-11-2020;Halte Korte Elisabethstraat;Halte Stroomkade;30.9;5.89;Pin
+Feike;Willemsen;13200282;22-11-2020;22-11-2020;Halte Visschersplein;Halte Wed;30.08;5.89;Cash
+Volkert;van de Veen;87103536;22-11-2020;22-11-2020;Halte Begijnekade;Halte Domtoren;18.38;3.61;CreditCard
+Viktor;Willems;56375099;25-11-2020;25-11-2020;Halte Lauwersteeg;Halte Elijnshof;21.38;4.18;Pin
+Jurjen;van der Linden;38210962;26-11-2020;26-11-2020;Halte Vijfzusterpoort;Halte Sterrenhof;28.16;5.51;CreditCard
+Abraham;van Wijk;13555011;23-11-2020;23-11-2020;Halte Militaire Weg;Halte Paralelweg;17.61;3.42;Pin
+Marijn;Kuypers;93187272;23-11-2020;24-11-2020;Halte Pallaesstraat;Halte Zonnenburg;4.12;0.95;Pin
+Roy;van der Wal;59728919;28-11-2020;29-11-2020;Halte Spiegelpoort;Halte Vlijtstraat;24.9;4.75;CreditCard
+Sjouke;Sanders;60434550;24-11-2020;24-11-2020;Halte Concordiastraat;Halte Koolstraat;11.14;2.28;Cash
+Ilse;van den Brink;43175329;27-11-2020;28-11-2020;Halte Krielsteeg;Halte Anjelierstraat;24.27;4.75;Pin
+Hendrika;Willemsen;89372001;26-11-2020;26-11-2020;Halte Leeuwerikstraat;Halte Elisabethsteeg;19.85;3.8;Cash
+Marije;Bos;68933319;22-11-2020;22-11-2020;Halte Korte Elisabethstraat;Halte Vredesteeg;26.13;5.13;Saldo
+Neeltje;Boer;51400424;25-11-2020;26-11-2020;Halte Kockstraat;Halte Knopstraat;30.76;5.89;Saldo
+Harold;van de Meer;20372589;22-11-2020;23-11-2020;Halte Paardesteeg;Halte Korte Hamsteeg;9.22;1.9;Saldo
+Maike;de Bruijn;99927253;22-11-2020;22-11-2020;Halte A B C straat;Halte Prooststraat;24.9;4.75;CreditCard
+Carl;de Ruiter;39038686;24-11-2020;25-11-2020;Halte Oosterstraat;Halte Margarethahofje;7.68;1.52;Pin
+Huub;van Beek;82988519;27-11-2020;28-11-2020;Halte Militaire Weg;Halte Vredeplaats;16.55;3.23;CreditCard
+Eveline;van den Bosch;23728902;27-11-2020;27-11-2020;Halte Narcisstraat;Halte Tulpstraat;27.86;5.32;CreditCard
+Yorick;van den Brink;39772059;27-11-2020;28-11-2020;Halte Jan Pietersz. Koenstraat;Halte Maliebaan;25;4.75;CreditCard
+Mieke;Martens;99515164;26-11-2020;26-11-2020;Halte Buys Ballotstraat;Halte Kromme Rijn;11.7;2.28;Cash
+Jordi;van Beek;69971250;27-11-2020;28-11-2020;Halte Kleine Tuinstraat;Halte Alendorpsteeg;25.81;4.94;Saldo
+Luuc;Hofman;88907184;24-11-2020;25-11-2020;Halte Steenstraat;Halte Koekoekstraat;29.46;5.7;Pin
+Martina;van der Veen;75749565;28-11-2020;29-11-2020;Halte Bloemstraat;Halte Javastraat;1;0.19;Saldo
+Riemer;de Bruijn;15638185;23-11-2020;24-11-2020;Halte Bakkerspoort;Halte Pietersplein;19.44;3.8;Saldo
+Noortje;Bosch;91409595;22-11-2020;22-11-2020;Halte Vijfzusterpoort;Halte Trans;28.84;5.51;CreditCard
+Lydia;de Koning;22969378;23-11-2020;24-11-2020;Halte Violenstraat;Halte Zaagmolenkade;29.9;5.7;Pin
+Herbert;van den Velden;58787310;22-11-2020;22-11-2020;Halte Hofje van Zessen;Halte Narcisstraat;16.22;3.23;Saldo
+Sami;Kuypers;43660056;26-11-2020;27-11-2020;Halte Kleine Eligensteeg;Halte Dadelstraat;24.33;4.75;Pin
+Dave;Kok;15888391;27-11-2020;28-11-2020;Halte Kovelaarsdijk;Halte Nieuwe Keizersgracht;12.12;2.47;CreditCard
+Christoffel;van der Meer;76861536;28-11-2020;29-11-2020;Halte Kr. Elleboogsteeg;Halte Kerkdwarsstraat;30.03;5.89;CreditCard
+Koen;Evers;45842008;27-11-2020;28-11-2020;Halte Grutterspoort;Halte Leuningsteeg;25.59;4.94;Pin
+Noah;van der Pol;72850574;27-11-2020;28-11-2020;Halte Bijlhouwerstraat;Halte Hendrik de Keyserstraat;11.79;2.28;Cash
+Mattijn;van Dongen;39971352;28-11-2020;29-11-2020;Halte Willem van Noortstraat;Halte Twijnstraat;17.09;3.42;Cash
+Leo;van de Meer;50799848;28-11-2020;28-11-2020;Halte Nauwe Watersteeg;Halte Wilgstraat;14.76;2.85;Saldo
+Steff;Kuypers;48493146;27-11-2020;28-11-2020;Halte Zeilsteeg;Halte Molenwerfsteeg;30.79;5.89;Saldo
+Loes;Kuiper;75288686;25-11-2020;26-11-2020;Halte Boterstraat;Halte Antoniestraat;19.65;3.8;Pin
+Cornelia;van der Berg;96378095;27-11-2020;27-11-2020;Halte Visschersplein;Halte Kanonstraat;25.65;4.94;Pin
+Jessica;van der Meulen;57695293;27-11-2020;27-11-2020;Halte Vredesteeg;Halte Doornboomstraat;28.95;5.51;Pin
+Wilfred;van Veen;34937562;23-11-2020;23-11-2020;Halte Rijndijk;Halte Hoogeweidschedijk;26.44;5.13;CreditCard
+Ella;de Leeuw;79381387;28-11-2020;28-11-2020;Halte Lange Koestraat;Halte Iepstraat;30.32;5.89;Cash
+Hendrik;van der Heyden;24747721;24-11-2020;24-11-2020;Halte Minrebroederstraat;Halte Minrebroederstraat;25.9;4.94;Pin
+Arne;van den Velden;84517298;26-11-2020;27-11-2020;Halte Arkenspoort;Halte Kerkweg;21.31;4.18;CreditCard
+Arnold;van der Linden;76460674;24-11-2020;25-11-2020;Halte Koningspoort;Halte Markstraat;9.11;1.9;Saldo
+Marjolein;de Bruyn;78218443;26-11-2020;27-11-2020;Halte Nicolaasstraat;Halte Zuilensteeg;10.68;2.09;CreditCard
+Anneke;van de Berg;36516094;28-11-2020;28-11-2020;Halte Plompetorengracht;Halte Haagstraat;20.37;3.99;Pin
+Guido;Smits;71626363;28-11-2020;28-11-2020;Halte Walsteeg;Halte Zonnenburg;6.56;1.33;Saldo
+Susanna;Smeets;16227948;23-11-2020;24-11-2020;Halte Predikheerenkerkhof;Halte Otterstraat;25.46;4.94;Pin
+Fleur;Smits;12073345;27-11-2020;27-11-2020;Halte Begijnekade;Halte Beukstraat;19.03;3.8;Saldo
+Anthonie;van de Meer;26280444;25-11-2020;26-11-2020;Halte Grasstraat;Halte Maliestraat;12.41;2.47;Cash
+Jelis;de Lange;42046357;24-11-2020;24-11-2020;Halte Lageweidsche dijk;Halte Mauritsstraat;20.57;3.99;Pin
+Jelmar;Prins;75480316;23-11-2020;24-11-2020;Halte Helmstraat;Halte Wolfstraat;24.6;4.75;Pin
+Rolf;de Jong;22772156;27-11-2020;27-11-2020;Halte Prinsenhof;Halte Lange Rozendaal;23.28;4.56;CreditCard
+Rolf;Molenaar;34432208;25-11-2020;26-11-2020;Halte Vleutensche Weg;Halte Achterstraat;2.65;0.57;Cash
+Jules;Driessen;98779918;28-11-2020;29-11-2020;Halte Begijnekade;Halte Zeilsteeg;11.49;2.28;Pin
+Harmen;van Veen;67051299;26-11-2020;27-11-2020;Halte Abstederdijk;Halte Hoogenoord;27.96;5.32;Pin
+Wilhelmina;van de Meer;59968101;28-11-2020;29-11-2020;Halte Kloksteeg;Halte Keistraat;8.43;1.71;Pin
+Anthony;van der Meulen;28918390;22-11-2020;23-11-2020;Halte Neude;Halte Bokstraat;30.18;5.89;CreditCard
+Nathalie;de Jong;95960422;27-11-2020;28-11-2020;Halte Boomstraat;Halte Hardebollenstraat;21.14;4.18;CreditCard
+Rein;Meijer;78074820;28-11-2020;28-11-2020;Halte Zeedijk;Halte Alphenplein (van);29.87;5.7;Cash
+Sandrijn;Kuipers;59830517;28-11-2020;29-11-2020;Halte Poortstraat;Halte Ridderschapstraat;17.97;3.42;Cash
+Simeon;Mol;96101619;25-11-2020;26-11-2020;Halte Lichtegaard;Halte Diemenstraat;31.16;6.08;Pin
+Mariska;de Boer;83051121;22-11-2020;23-11-2020;Halte Begijnesteeg 2e;Halte Stadhuisbrug;6.56;1.33;Pin
+Jacco;Hoekstra;94864656;24-11-2020;25-11-2020;Halte Oosterbuurt;Halte Buurkerksteeg 1e;25.96;4.94;CreditCard
+Xaveer;van der Meer;79282851;25-11-2020;26-11-2020;Halte Wilhelmina Park;Halte Daalschedijk 2e;20.57;3.99;Pin
+Quentin;van der Laan;43010282;27-11-2020;28-11-2020;Halte Catharijnesingel;Halte Buurkerkhof;13.64;2.66;CreditCard
+Kenny;Jonker;86471998;28-11-2020;29-11-2020;Halte Korte Lauwerstraat;Halte Ganzenmarkt;9.54;1.9;Pin
+Ronald;Bos;44365184;27-11-2020;27-11-2020;Halte Paardesteeg;Halte Laddersteeg;30;5.7;Pin
+Welmoed;van de Brink;25561304;26-11-2020;27-11-2020;Halte Wagenstraat;Halte Stroomkade;29.24;5.7;Pin
+Tomas;Post;62674945;27-11-2020;27-11-2020;Halte Leidsche Veer;Halte Blindesteeg;26.7;5.13;Cash
+Puck;Kramer;83241776;26-11-2020;26-11-2020;Halte Loevenhout. Dijk;Halte Heerenweg;17.23;3.42;CreditCard
+Gareth;Hendriks;52792248;22-11-2020;22-11-2020;Halte Prins Hendriklaan;Halte Badstraat;7.75;1.52;Cash
+Peter;Post;55275972;26-11-2020;27-11-2020;Halte Bankstraat;Halte Koekoeksplein;29.56;5.7;Cash
+Lianne;de Groot;57435845;22-11-2020;22-11-2020;Halte Kerkstraat;Halte Kruisweg;30.92;5.89;CreditCard
+Helga;Kuijpers;22809761;27-11-2020;27-11-2020;Halte Diaconessenstraat;Halte Soesbergen ;20.22;3.99;Cash
+Kyrell;van der Laan;16191225;23-11-2020;24-11-2020;Halte Tolsteegsingel W.Z.;Halte Justus van Effenstraat;21.02;4.18;CreditCard
+Jamai;Smits;66067851;28-11-2020;28-11-2020;Halte Oranjehofje;Halte Bakkerspoort;18.49;3.61;Pin
+Els;Meijer;35074807;23-11-2020;24-11-2020;Halte Hoogeweidschedijk;Halte Kl. Geertekerkhof;28.14;5.51;CreditCard
+Jayden;Hofman;21927107;26-11-2020;27-11-2020;Halte Koekoekstraat;Halte Reestraat;24.74;4.75;Saldo
+Christoffel;van de Meer;27480024;25-11-2020;25-11-2020;Halte Willemstraat;Halte Balistraat;29.65;5.7;Cash
+Nadine;Kuipers;73825378;23-11-2020;24-11-2020;Halte Dirkje Mariastraat;Halte Hooipoort;20.57;3.99;CreditCard
+Vanessa;van Dam;17722302;23-11-2020;23-11-2020;Halte Varkenmarkt;Halte Ridderschapstraat;25.75;4.94;Pin
+Iwan;Molenaar;63859188;22-11-2020;23-11-2020;Halte Nauwe Begijnesteeg;Halte Hagelstraat;23.94;4.56;Pin
+Christel;Timmermans;25909338;22-11-2020;23-11-2020;Halte Heerenhofje;Halte Ekerenspoort;30.59;5.89;Saldo
+Olaf;van den Berg;68240056;27-11-2020;28-11-2020;Halte Middellaan;Halte Oranjehofje;10.86;2.09;Pin
+Guillermo;Kok;36456950;22-11-2020;23-11-2020;Halte Hugo de Grootstraat;Halte Houtstraat;24.54;4.75;Saldo
+Geoffrey;de Leeuw;57081059;27-11-2020;27-11-2020;Halte Hendrik de Keyserstraat;Halte Kr. Nieuwegracht;11.22;2.28;Cash
+Ricco;Vos;82178153;24-11-2020;25-11-2020;Halte Magdalenastraat;Halte Keizershof;18.84;3.61;Saldo
+Hennie;Prins;69134984;23-11-2020;24-11-2020;Halte Koningsweg;Halte Jeruzalemsteeg;15.91;3.04;CreditCard
+Adelinde;Willemsen;36754360;27-11-2020;27-11-2020;Halte Voetiusstraat;Halte Groenesteeg;28.46;5.51;Pin
+Bob;Molenaar;32663569;25-11-2020;25-11-2020;Halte Landstraat;Halte Molenwerfsteeg;20.47;3.99;Pin
+Lenie;Koster;37892853;27-11-2020;27-11-2020;Halte Koningsweg;Halte Dadelstraat;21.54;4.18;CreditCard
+Paul;de Leeuw;12157128;28-11-2020;28-11-2020;Halte Bregittenstraat;Halte Rembrandtkade;20.78;3.99;Pin
+Kensi;Meyer;55854146;22-11-2020;23-11-2020;Halte Jacobsplein;Halte Leeuwerikstraat;19.54;3.8;Cash
+Misha;Vermeulen;26382728;27-11-2020;27-11-2020;Halte Leerstraat;Halte Sterrenburg;31.06;6.08;CreditCard
+Indiana;Schipper;84147836;24-11-2020;25-11-2020;Halte Eloyensteeg;Halte Amaliastraat;31.43;6.08;CreditCard
+Carola;van den Berg;70303212;26-11-2020;26-11-2020;Halte Jasmijnstraat;Halte Valkstraat;14;2.66;CreditCard
+Geesje;Bosman;19572343;28-11-2020;28-11-2020;Halte Kersstraat;Halte Bankstraat;31.53;6.08;Saldo
+Lynn;van der Velden;62434782;23-11-2020;24-11-2020;Halte Achterstraat 2e;Halte Pieterseliesteegje;19.05;3.8;CreditCard
+Hans;Peeters;82263951;27-11-2020;28-11-2020;Halte Haverland;Halte Koningspoort;12.53;2.47;Saldo
+Mira;Hoekstra;54126459;23-11-2020;24-11-2020;Halte Bankaplein;Halte Kraanhof;31.56;6.08;Cash
+Jort;van Loon;39735344;24-11-2020;24-11-2020;Halte Vredenburg;Halte Achterom;20.27;3.99;Pin
+Arnoud;Smeets;32645392;22-11-2020;22-11-2020;Halte Biltstraat;Halte Bergstraat;19.95;3.8;Pin
+Alexander;van der Meer;22762403;26-11-2020;26-11-2020;Halte Schutterstraat;Halte Alphenstraat (van);28.07;5.51;Pin
+Pauline;Bos;10870875;25-11-2020;26-11-2020;Halte Lange Smeestraat;Halte Kruisdwarsstraat;21.77;4.18;Pin
+Marina;Kramer;20455014;25-11-2020;25-11-2020;Halte Schepenmakerssteeg;Halte Oudkerkhof;10.72;2.09;CreditCard
+Mayke;Bosch;15157694;23-11-2020;23-11-2020;Halte Kruisdwarsstraat;Halte Kwartelstraat;8.43;1.71;CreditCard
+Kristof;Jonker;10207112;26-11-2020;27-11-2020;Halte Damstraat;Halte Servaaspark;20.83;3.99;Cash
+Sithri;van den Pol;10439234;23-11-2020;23-11-2020;Halte Delistraat 2e;Halte Fockstraat;27.91;5.32;Pin
+Theodora;de Bruin;24385987;27-11-2020;27-11-2020;Halte Keisteeg;Halte Gildstraat;21.28;4.18;CreditCard
+Dymfna;van den Velde;37041661;27-11-2020;27-11-2020;Halte Visschersplein;Halte Merwedekanaal;29.93;5.7;Cash
+Lotte;Kuiper;35438153;27-11-2020;27-11-2020;Halte Hennipstraat;Halte Korte Viestraat;11.31;2.28;Saldo
+Karen;Mol;45712878;25-11-2020;26-11-2020;Halte Spieringpoort;Halte Kwakkeldijk;22.91;4.37;CreditCard
+Andreas;Peters;96438890;27-11-2020;28-11-2020;Halte Soesbergen ;Halte Jan Meyenstraat;16.94;3.23;CreditCard
+Louis;Post;73843337;22-11-2020;22-11-2020;Halte Admir. Van Ghentstraat;Halte Servaasbolwerk;22.52;4.37;Cash
+Xandra;Jansen;46075379;22-11-2020;23-11-2020;Halte Nooitgedacht;Halte Alendorpsteeg;29;5.51;CreditCard
+Ben;de Groot;79698031;26-11-2020;27-11-2020;Halte Hofsteeg;Halte Elimos. V. Oud Munst.;30.55;5.89;Cash
+Ischa;Jansen;44849304;28-11-2020;29-11-2020;Halte Kerkweg;Halte Reguliersteeg;15.46;3.04;Saldo
+Idse;Smits;87227069;24-11-2020;24-11-2020;Halte Maliesingel;Halte Zwaansteeg;24.33;4.75;Cash
+Sarah;Kuiper;62217045;23-11-2020;24-11-2020;Halte Ridderschapstraat;Halte Ondiep;31.43;6.08;Saldo
+Logan;Hendriks;86915746;23-11-2020;24-11-2020;Halte Kruitstraat;Halte Kievitstraat;6.24;1.33;Pin
+Melle;Vermeulen;23740327;22-11-2020;23-11-2020;Halte Spieringpoort;Halte Jacobskerkstraat;28.44;5.51;CreditCard
+Ian;de Haan;69264587;22-11-2020;23-11-2020;Halte Rijnstraat;Halte Badstraat;25.61;4.94;Saldo
+Thibaut;van der Linden;31178365;26-11-2020;27-11-2020;Halte Driesprong;Halte Achterstraat 3e;27.31;5.32;Pin
+Florian;Post;17648194;26-11-2020;26-11-2020;Halte Drieharingstraat;Halte Rijndijk;9.75;1.9;CreditCard
+Ole;Bosch;87817525;24-11-2020;25-11-2020;Halte Groote Eligensteeg;Halte Hugo de Grootstraat;21.95;4.18;CreditCard
+Rafael;van Dam;49595882;23-11-2020;23-11-2020;Halte Elijnshof;Halte Hovenstraat;17.89;3.42;CreditCard
+Ed;Blom;47423646;22-11-2020;22-11-2020;Halte Heerenweg;Halte Plompetorengracht;26.65;5.13;Pin
+Koenraad;van den Berg;60868602;25-11-2020;25-11-2020;Halte Nicolaasweg;Halte Abstederdijk;29.97;5.7;Cash
+Mick;Vermeulen;60475774;25-11-2020;26-11-2020;Halte Vredesteeg;Halte Kleine Singel;15.84;3.04;Pin
+Mien;Wolters;73578594;23-11-2020;23-11-2020;Halte Hoogelanden WZ;Halte Leuningsteeg;29.58;5.7;Cash
+Yasmin;Huisman;53007288;26-11-2020;27-11-2020;Halte Schoutenstraat;Halte Kanaalstraat;26.72;5.13;CreditCard
+Beertje;Sanders;40873055;25-11-2020;25-11-2020;Halte Croesestraat;Halte Korte Hamsteeg;10.72;2.09;Pin
+Danique;van de Veen;54313252;23-11-2020;23-11-2020;Halte Ezelsdijk;Halte Wittevrouwenkade;7.28;1.52;Cash
+Ester;van Loon;75347252;22-11-2020;23-11-2020;Halte Hemdsmouwsteeg;Halte Breedstraat;27.17;5.32;Pin
+Jacob;Visser;82231035;28-11-2020;28-11-2020;Halte Westravenstraat;Halte Hennipstraat;19.54;3.8;Saldo
+Zakaria;Hoekstra;21881098;22-11-2020;22-11-2020;Halte Looierstraat;Halte Agnietenstraat;2.24;0.57;Cash
+Afke;Kuijpers;62554105;24-11-2020;24-11-2020;Halte Baansteeg 2e;Halte Acht. De Koekoek;13.04;2.66;Saldo
+Kalle;de Leeuw;26663396;22-11-2020;22-11-2020;Halte Tuinsteeg;Halte Willem van Noortstraat;29.63;5.7;Pin
+Marja;Peeters;71583101;22-11-2020;23-11-2020;Halte Acht. De Koekoek;Halte Delistraat 2e;8.89;1.71;Pin
+Julie;Willems;17248903;26-11-2020;26-11-2020;Halte Keistraat;Halte Vlijtstraat;27.96;5.32;CreditCard
+Tijmen;de Haan;80183188;27-11-2020;27-11-2020;Halte Kaatstraat;Halte Haagstraat;31.45;6.08;Cash
+Ina;van der Velden;12794772;23-11-2020;24-11-2020;Halte Tiendstraat;Halte Blauwkapelscheweg;18.33;3.61;Pin
+Irma;Koster;98431972;24-11-2020;25-11-2020;Halte Elijnshof;Halte Onder de Linden;17.03;3.42;Saldo
+Wesley;van der Linden;17449214;25-11-2020;25-11-2020;Halte Baansteeg 1e;Halte Ambachtstraat;31.35;6.08;Cash
+Jenny;van der Horst;13314315;26-11-2020;27-11-2020;Halte Lombokstraat;Halte Achter Twijnstraat;19.65;3.8;Cash
+Splinter;Kuiper;65922328;22-11-2020;22-11-2020;Halte Bleijenburgstraat;Halte Veerstraat;30.43;5.89;Cash
+Maxim;van Vliet;42614813;28-11-2020;28-11-2020;Halte Knopstraat;Halte Kroonsteeg;4.9;0.95;CreditCard
+Onno;Gerritsen;23330179;27-11-2020;28-11-2020;Halte Borneostraat;Halte Kweekstraat;27.8;5.32;Cash
+Rocco;van der Ven;33268993;23-11-2020;23-11-2020;Halte Pietersplein;Halte Zaagstraat;27.55;5.32;CreditCard
+Marijn;de Leeuw;52734763;22-11-2020;23-11-2020;Halte Jacobskerkstraat;Halte Jacobspoort;14.14;2.85;Cash
+Juul;van Loon;20871003;22-11-2020;22-11-2020;Halte Parkstraat;Halte Bergstraat;9.11;1.9;Cash
+Ethan;de Vries;83324122;28-11-2020;28-11-2020;Halte Achterstraat 3e;Halte Keizerspoort;14.18;2.85;CreditCard
+Sietse;Kramer;12601921;24-11-2020;25-11-2020;Halte Ramstraat;Halte Jeremiestraat;14.7;2.85;CreditCard
+Hadewig;van de Ven;53011372;25-11-2020;25-11-2020;Halte Zeedijk;Halte Bekkerstraat;19.87;3.8;Pin
+Guillermo;van der Meulen;83095915;24-11-2020;24-11-2020;Halte Achterstraat;Halte Buurkerksteeg 3e;23.13;4.56;Saldo
+Said;Koster;35256222;28-11-2020;28-11-2020;Halte Hoog Glagenweerd;Halte Riemstraat;3.16;0.76;Pin
+Sanna;van den Pol;70047075;24-11-2020;25-11-2020;Halte Lagenoord;Halte Weerdsingel O.Z.;27.93;5.32;Pin
+Kieran;Willemsen;32860837;28-11-2020;28-11-2020;Halte Stadhouderslaan;Halte Mineurslaan;22.96;4.37;Saldo
+Belle;Veenstra;59475391;28-11-2020;29-11-2020;Halte Kroonsteeg;Halte Ezelsdijk;30.35;5.89;CreditCard
+Marius;van Leeuwen;69568042;25-11-2020;26-11-2020;Halte Leuningsteeg;Halte Hopstraat;17.89;3.42;Cash
+Marjan;van den Velden;27548510;25-11-2020;25-11-2020;Halte Hertestraat;Halte Jacobssteeg;24.39;4.75;Pin
+Bianca;van Dongen;59849417;28-11-2020;28-11-2020;Halte Hopstraat;Halte Jeremiestraat;6.78;1.33;Cash
+Dylan;van de Brink;76873647;28-11-2020;29-11-2020;Halte Buurkerksteeg 1e;Halte Jeremiestraat;21;3.99;CreditCard
+Ferre;van de Pol;85987959;24-11-2020;24-11-2020;Halte Catharijnesingel;Halte Keizershof;28.39;5.51;Cash
+Erin;van der Berg;61131449;22-11-2020;22-11-2020;Halte Zakkendragersteeg;Halte Grutterssteeg;15.62;3.04;Saldo
+Boudewijn;Bakker;11764169;23-11-2020;24-11-2020;Halte Leidsche Weg;Halte Oorsprongpark;19.08;3.8;Cash
+Lieven;de Groot;87167341;22-11-2020;22-11-2020;Halte Tolsteegsingel O.Z.;Halte Leliestraat;21.24;4.18;CreditCard
+Alie;Dijkstra;12237031;27-11-2020;27-11-2020;Halte Hoogt;Halte Bekkerstraat;20.62;3.99;Saldo
+Yuri;van der Meulen;48463238;22-11-2020;22-11-2020;Halte Blindesteeg;Halte Bekkerstraat;23.98;4.56;Cash
+Klemen;Kramer;85648997;28-11-2020;29-11-2020;Halte Twijnstraat;Halte Vaartschestraat;28.05;5.51;CreditCard
+Pascalle;van Leeuwen;19174608;27-11-2020;28-11-2020;Halte Duifstraat;Halte Paarlstraat;8.94;1.71;Cash
+Jannes;Evers;35818828;22-11-2020;23-11-2020;Halte Lombokstraat;Halte Neude;30.45;5.89;Pin
+Job;de Bruyn;22651537;26-11-2020;27-11-2020;Halte Drakenburgsteeg;Halte Oudkerkhof;15.94;3.04;CreditCard
+Mike;Willemsen;41020956;25-11-2020;26-11-2020;Halte Bakkerstraat;Halte Nassaustraat;21.14;4.18;Pin
+Berend;de Graaf;61948541;28-11-2020;28-11-2020;Halte Heemskerkstraat;Halte Servetstraat;28.84;5.51;Saldo
+Riemer;Wolters;64937737;23-11-2020;24-11-2020;Halte Baansteeg 2e;Halte Hulststraat;23.98;4.56;CreditCard
+Gideon;Hoekstra;98947173;23-11-2020;23-11-2020;Halte Violenstraat;Halte Houtensche pad;23.47;4.56;CreditCard
+Bob;Groen;53412128;28-11-2020;29-11-2020;Halte Munsterkerkhof;Halte Koekoekstraat;26.81;5.13;Cash
+Joost;Post;23209852;26-11-2020;26-11-2020;Halte Lekstraat;Halte Nieuwegracht;28.37;5.51;Saldo
+Maaike;van de Velde;11003192;24-11-2020;24-11-2020;Halte Nauwe Begijnesteeg;Halte Beverstraat;31.16;6.08;CreditCard
+Laurents;Verhoeven;67480486;25-11-2020;26-11-2020;Halte Jacob Ruysdaelstraat;Halte Tuinsteeg;22.63;4.37;Cash
+Thibaut;Kuipers;68606408;25-11-2020;25-11-2020;Halte Hemdsmouwsteeg;Halte Boothstraat;17.23;3.42;Cash
+Gerwin;de Bruin;99939616;25-11-2020;26-11-2020;Halte Spieringpoort;Halte Beekstraat;18.06;3.61;Cash
+Sofie;van de Wal;83308903;24-11-2020;24-11-2020;Halte Bekkerstraat;Halte Spechtstraat 1e;22.54;4.37;CreditCard
+Lesley;van den Velden;29649471;24-11-2020;24-11-2020;Halte Leeuwenst. Laan;Halte Schoolstraat;16.19;3.23;Cash
+Johanna;van den Pol;71003588;22-11-2020;23-11-2020;Halte Nieuwegracht;Halte Massegast;5.66;1.14;Saldo
+Sandrijn;van den Heuvel;82135280;25-11-2020;25-11-2020;Halte Wolfstraat;Halte Maliebaan;0;0;CreditCard
+Kwinten;van Leeuwen;48742815;25-11-2020;26-11-2020;Halte Wilgstraat;Halte Thinstraat;4.69;0.95;CreditCard
+Letitia;van de Pol;53445476;25-11-2020;25-11-2020;Halte Bem. Weerd OZ;Halte Kruitstraat;29.19;5.7;Cash
+Vincent;van de Velden;23390326;27-11-2020;27-11-2020;Halte Andreasstraat;Halte Keistraat;30.84;5.89;Pin
+Inti;Hofman;50100111;25-11-2020;26-11-2020;Halte Drakenburgsteeg;Halte Protestantenhofje;12.33;2.47;Saldo
+Liam;van der Heijden;14565768;26-11-2020;27-11-2020;Halte Bregittenstraat;Halte Lijnpadsteeg;30.95;5.89;Pin
+Nikita;Jacobs;29815704;27-11-2020;28-11-2020;Halte Wed;Halte Museumlaan;29.65;5.7;Saldo
+IJsbrand;van de Velde;50063381;24-11-2020;25-11-2020;Halte Molenwerfsteeg;Halte Zilverbergpoort;24.6;4.75;Cash
+Margaret(h)a;de Graaf;67721807;23-11-2020;23-11-2020;Halte Tolsteegsingel W.Z.;Halte Laan van Puntenburg;18.44;3.61;Pin
+Emmy;Visser;93143258;22-11-2020;22-11-2020;Halte Zuilenstraat;Halte Beekstraat;10.49;2.09;Cash
+Jason;van de Veen;12460658;23-11-2020;23-11-2020;Halte Mauritsstraat;Halte Stadhuisbrug;21.86;4.18;Saldo
+Idsert;de Leeuw;65686046;24-11-2020;25-11-2020;Halte Frederik Hendrikstraat;Halte Delistraat 1e;18.08;3.61;Cash
+Berry;Gerritsen;20410772;23-11-2020;23-11-2020;Halte Heerenweg;Halte Laan van Croes;24.9;4.75;Cash
+Mustafa;Janssen;37939539;27-11-2020;27-11-2020;Halte Manenburg;Halte Brinkhof;20.57;3.99;Saldo
+Jelger;van der Heijden;93132217;26-11-2020;27-11-2020;Halte Molensteeg;Halte Mariaplaats;20.98;3.99;Cash
+Diederik;de Boer;98314097;25-11-2020;25-11-2020;Halte Vlietstraat;Halte Joh. Camphuysstraat;21.14;4.18;Cash
+Mats;Jonker;63922861;25-11-2020;26-11-2020;Halte Weerdsingel W.Z.;Halte Wilhelmina Park;27.04;5.32;Pin
+Marjan;Willemsen;85763197;27-11-2020;28-11-2020;Halte Nauwe Muntsteeg;Halte Hamburgerstraat;30.05;5.89;CreditCard
+Sabine;de Bruijn;91752372;26-11-2020;27-11-2020;Halte Varkenmarkt;Halte Groenesteeg;17.75;3.42;Pin
+Menno;de Boer;51473357;26-11-2020;27-11-2020;Halte Werfsteeg;Halte Bleekerskade;23.22;4.56;Pin
+Nelson;Postma;44101735;23-11-2020;24-11-2020;Halte Sterrenburg;Halte Catharijnesteeg;3.32;0.76;Cash
+Jacques;Janssen;31137332;26-11-2020;26-11-2020;Halte Voorstraat;Halte Stijfselsteeg;30.72;5.89;Pin
+Lamptey;van Veen;96336815;26-11-2020;26-11-2020;Halte Wittevrouwenkade;Halte Onder de Linden;13.42;2.66;Pin
+Ruben;Driessen;14344651;27-11-2020;27-11-2020;Halte Wilgstraat;Halte Schroeder van der Kolkstraat;22.43;4.37;Cash
+Wietse;Meyer;23517639;22-11-2020;22-11-2020;Halte Willem van Noortstraat;Halte Lindestraat;25.24;4.94;Cash
+Doetje;van Dam;64154636;27-11-2020;28-11-2020;Halte Gildstraat;Halte Putsteeg;31.53;6.08;Cash
+Gino;van de Velden;31877866;28-11-2020;28-11-2020;Halte Lange Nieuwstraat;Halte Roodepoort;13.71;2.66;CreditCard
+Asha;Koster;94409039;25-11-2020;26-11-2020;Halte Beekstraat;Halte Bijlhouwerstraat;17.41;3.42;Cash
+Annigje;Smits;60452992;24-11-2020;25-11-2020;Halte Krommerijnstraat;Halte Diemenstraat;27.64;5.32;CreditCard
+Marije;Boer;71092944;24-11-2020;24-11-2020;Halte Jacobijnestraat;Halte Zwaansteeg;22.41;4.37;Saldo
+Maurice;Meijer;47566257;23-11-2020;24-11-2020;Halte Waterstraat;Halte Kievitstraat;18.14;3.61;CreditCard
+Guillaume;de Bruyn;80011882;26-11-2020;27-11-2020;Halte Nauwe Blindesteeg;Halte Ambachtstraat;29.98;5.7;Saldo
+Sanna;van Beek;83399723;23-11-2020;24-11-2020;Halte Kranenburg;Halte Hamsteeg;26.1;5.13;Saldo
+Marian;Meijer;19122263;25-11-2020;25-11-2020;Halte Vredeplaats;Halte Joh. Camphuysstraat;28;5.32;Cash
+Melle;van den Broek;49487737;26-11-2020;26-11-2020;Halte Rozenstraat;Halte Middellaan;20;3.8;Pin
+Odilia;van Wijk;12824488;27-11-2020;28-11-2020;Halte Annastraat;Halte Noteboomenlaan;22.61;4.37;Pin
+Uri;Smeets;56880717;24-11-2020;25-11-2020;Halte Otterstraat;Halte Begijnehof;5.48;1.14;Cash
+Tomas;Smit;56768600;26-11-2020;27-11-2020;Halte Doornboomstraat;Halte Spijkerdwarsstraat;19.85;3.8;Pin
+Miquel;Kuiper;22010596;23-11-2020;23-11-2020;Halte Ambachtstraat;Halte Slachtsteeg;23.79;4.56;Pin
+Dorien;Evers;87600324;25-11-2020;26-11-2020;Halte Jansdam;Halte Stroomkade;8.89;1.71;Pin
+Willie;van der Laan;35968033;25-11-2020;25-11-2020;Halte Oranjestraat;Halte Klaverstraat;3.61;0.76;Cash
+Isa;Jacobs;18824617;25-11-2020;25-11-2020;Halte Kweekstraat;Halte Schoolstraat;12.12;2.47;Pin
+Rijk;Boer;75564837;26-11-2020;26-11-2020;Halte Paddemoes;Halte Javastraat;27.96;5.32;CreditCard
+Theodora;van den Velde;59604622;23-11-2020;24-11-2020;Halte Hoogeweidschedijk;Halte Appelstraat;25.65;4.94;Cash
+Everhardus;Jonker;23869790;26-11-2020;27-11-2020;Halte Margarethahofje;Halte Paardenveld;24;4.56;Saldo
+Susan;van de Brink;32286418;23-11-2020;23-11-2020;Halte Catharijnesingel;Halte Vinkenkade;27.66;5.32;CreditCard
+Paula;van Wijk;23272476;27-11-2020;27-11-2020;Halte Zaagstraat;Halte Bladstraat;27.11;5.32;Saldo
+Yolanda;van de Velde;91002697;28-11-2020;29-11-2020;Halte Tulpstraat;Halte Grutterssteeg;29.24;5.7;Saldo
+Vinny;Gerritsen;72876948;25-11-2020;26-11-2020;Halte Badstraat;Halte Hopakker;21.84;4.18;Saldo
+Laetitia;de Leeuw;47250461;26-11-2020;26-11-2020;Halte Rembrandtkade;Halte Wijde Watersteeg;16.91;3.23;CreditCard
+Egon;Bosman;23332754;28-11-2020;29-11-2020;Halte Hoogt;Halte Emmalaan;26;4.94;Saldo
+Saskia;van de Pol;96237911;22-11-2020;23-11-2020;Halte Wilhelmina Park;Halte Grutterspoort;22.61;4.37;CreditCard
+Marcella;Bosman;33234584;26-11-2020;27-11-2020;Halte Munsterkerkhof;Halte Nooitgedacht;26.02;5.13;Saldo
+Niek;van den Berg;31935878;27-11-2020;27-11-2020;Halte Zeilsteeg;Halte Lakmoessteeg;16.64;3.23;CreditCard
+Olaf;Meyer;32372219;25-11-2020;25-11-2020;Halte Rijnsteeg;Halte Ridderschapstraat;18.73;3.61;Cash
+Frederique;van Dijk;32438913;24-11-2020;25-11-2020;Halte Kroonsteeg;Halte Zadelstraat;22.02;4.37;Cash
+Mandy;van de Velden;92279676;23-11-2020;23-11-2020;Halte Hofstraat;Halte Keizerstraat;14.18;2.85;Pin
+Leo;van der Heyden;55263340;28-11-2020;28-11-2020;Halte Emmalaan;Halte Pieterserf;24.76;4.75;Saldo
+Leen;Janssen;94519079;25-11-2020;25-11-2020;Halte Frederikastraat;Halte Goedestraat;30.05;5.89;CreditCard
+Clara;Smits;45244462;25-11-2020;26-11-2020;Halte Justus van Effenstraat;Halte Frederikastraat;21.73;4.18;Cash
+Ilja;Willems;15458591;22-11-2020;22-11-2020;Halte Loevenhout. Dijk;Halte Zuilenstraat;30.77;5.89;Cash
+Suzanne;van der Velde;23868912;23-11-2020;23-11-2020;Halte Blindesteeg;Halte Zuilensteeg;12;2.28;Pin
+Paul;van der Wal;67141404;25-11-2020;26-11-2020;Halte Knopstraat;Halte Buurkerksteeg 2e;25.28;4.94;CreditCard
+Guusje;van der Meulen;93000166;22-11-2020;23-11-2020;Halte Singeldwarsstraat;Halte Wijckstraat (van);28.44;5.51;Saldo
+Jaimy;Driessen;19927258;24-11-2020;24-11-2020;Halte Beekstraat;Halte Hardebollenstraat;30.63;5.89;Cash
+Matthijs;de Haan;33114183;22-11-2020;22-11-2020;Halte Jan van Scorelstraat;Halte Leistraat;20.25;3.99;Pin
+Ole;van Doorn;15158576;22-11-2020;22-11-2020;Halte Kroonhof;Halte Vinkenbuurt;6.78;1.33;Saldo
+Klemen;Dekker;78952962;26-11-2020;27-11-2020;Halte Staalstraat;Halte Molensteeg;14.87;2.85;Saldo
+Robbert-Jan;Hofman;47098786;26-11-2020;26-11-2020;Halte Hartingstraat;Halte Herman Saftlevenstraat;20.2;3.99;Cash
+Myrthe;Willemsen;68209035;24-11-2020;25-11-2020;Halte Wijde Begijnestraat;Halte Leuninggang;24.6;4.75;Cash
+Ischa;de Bruyn;23084736;25-11-2020;26-11-2020;Halte Frederikastraat;Halte Schoolplein;30.74;5.89;CreditCard
+Chantal;Hermans;63185827;22-11-2020;22-11-2020;Halte Nauwe Blindesteeg;Halte Reestraat;25.04;4.94;Pin
+Amanda;van Beek;86342733;25-11-2020;25-11-2020;Halte Hoog Glagenweerd;Halte Klaverstraat;25.69;4.94;CreditCard
+Aleida;Verhoeven;51346225;25-11-2020;26-11-2020;Halte Heerenweg;Halte Prins Hendriklaan;26.8;5.13;CreditCard
+Bernhard;van den Brink;23969640;22-11-2020;22-11-2020;Halte Pauwstraat;Halte Wagendwarsstraat;26.12;5.13;Cash
+Jens;van der Berg;16924962;28-11-2020;29-11-2020;Halte Nauwe Begijnesteeg;Halte Arkenspoort;27.17;5.32;CreditCard
+Silvijn;Peters;75169356;22-11-2020;23-11-2020;Halte Bolstraat;Halte Kievitstraat;24.04;4.75;CreditCard
+Madelief;Post;13739863;22-11-2020;22-11-2020;Halte Singelstraat;Halte Kwartelstraat;29.27;5.7;Saldo
+Ernst;Sanders;73046272;27-11-2020;27-11-2020;Halte Kleine Eligensteeg;Halte Waterstraat;21.54;4.18;Saldo
+Hayley;Hoekstra;66053973;28-11-2020;28-11-2020;Halte Voor Clarenburg;Halte Bakkerspoort;7.81;1.52;Pin
+Douwe;Vermeulen;46261264;28-11-2020;28-11-2020;Halte Bolstraat;Halte Kerkdwarsstraat;28.41;5.51;Cash
+Steffen;van Dijk;19083610;26-11-2020;27-11-2020;Halte Boogstraat;Halte Papaverstraat;13.45;2.66;CreditCard
+Angelique;Wolters;89128640;26-11-2020;26-11-2020;Halte Hofje van Zessen;Halte Molensteeg;21.07;4.18;Pin
+Kilian;Jacobs;93639921;23-11-2020;23-11-2020;Halte Bleekerskade;Halte Eikstraat;10.25;2.09;Cash
+Berend;Verhoeven;98263600;28-11-2020;29-11-2020;Halte Hoenderstraat;Halte Houtensche pad;9.27;1.9;CreditCard
+Mien;Brouwer;83746156;24-11-2020;25-11-2020;Halte Keisteeg;Halte Achterstraat;27.46;5.32;CreditCard
+Jantine;Sanders;55890177;25-11-2020;26-11-2020;Halte Moesstraat;Halte Korte Koestraat;4.47;0.95;Saldo
+Cecile;Jonker;77253907;24-11-2020;24-11-2020;Halte Wijde Begijnestraat;Halte Kerkdwarsstraat;16.79;3.23;CreditCard
+Fernando;van Dam;61376723;24-11-2020;24-11-2020;Halte Buurkerksteeg 1e;Halte Jacobskerkstraat;25.69;4.94;Pin
+Henny;Jacobs;12984421;23-11-2020;24-11-2020;Halte Tuinsteeg;Halte Buurkerksteeg 1e;18.73;3.61;CreditCard
+Mustafa;Kuipers;12811733;22-11-2020;22-11-2020;Halte Soesbergen ;Halte Minutensteeg;10.95;2.09;Saldo
+Mario;van den Berg;10618633;26-11-2020;26-11-2020;Halte Kleine Slachtsteeg;Halte Koekoeksplein;28.21;5.51;Saldo
+Godelieve;de Bruyn;11663361;24-11-2020;25-11-2020;Halte Westravenstraat;Halte Koekoeksplein;12.85;2.47;CreditCard
+Renata;van den Broek;52077940;23-11-2020;23-11-2020;Halte Hopakker;Halte Maetsuijkerstraat;30.79;5.89;Saldo
+Kenzo;Bos;51747250;26-11-2020;27-11-2020;Halte Kaatstraat;Halte Laan van Croes;24.66;4.75;CreditCard
+Grant;van Dijk;37391222;23-11-2020;23-11-2020;Halte Piet Heinstraat;Halte Daelstraat;19.26;3.8;Saldo
+Harco;de Vos;27557923;24-11-2020;24-11-2020;Halte Korte Hamsteeg;Halte Minutensteeg;28.93;5.51;Pin
+Pier;Hendriks;79222389;23-11-2020;24-11-2020;Halte Bollenhofschestraat;Halte Lange Hartsteeg;31.62;6.08;Cash
+Robbe;Maas;24508537;26-11-2020;26-11-2020;Halte Delistraat 2e;Halte Lennepstraat;2.45;0.57;Pin
+Hendrik;van de Wal;79398914;27-11-2020;27-11-2020;Halte Vrijhof ;Halte Kraanstraat;2;0.38;Saldo
+Coren;Kok;34736802;22-11-2020;22-11-2020;Halte Amsterdamsestraatweg;Halte Zilversteeg;26.19;5.13;Pin
+Marja;de Bruin;31078309;26-11-2020;27-11-2020;Halte Loefbergmakerstraat;Halte Onder de Linden;8.54;1.71;Saldo
+Jansje;van der Horst;89804714;26-11-2020;27-11-2020;Halte Achter Clarenburg;Halte Pieterskerkhof;23.13;4.56;Saldo
+Stijn;Kuiper;40021579;27-11-2020;28-11-2020;Halte Lanceepoort;Halte Berkstraat;14.18;2.85;Cash
+Mitchell;van der Berg;63666005;28-11-2020;28-11-2020;Halte Bem. Weerd OZ;Halte Jacobijnestraat;24.94;4.75;Saldo
+Mare;van Doorn;23830878;25-11-2020;26-11-2020;Halte Kollewijsteeg;Halte Schepenmakerssteeg;17.41;3.42;Saldo
+Kyrell;Visser;80668129;24-11-2020;24-11-2020;Halte Lagenoord;Halte Pieterserf;15.65;3.04;Pin
+Caroline;Smit;56510052;28-11-2020;28-11-2020;Halte Florastraat;Halte Nicolaasweg;29.07;5.7;Pin
+Stoffel;Hendriks;50133203;27-11-2020;28-11-2020;Halte Nieuwe Kamp;Halte Oudkerkhof;31.62;6.08;Saldo
+Rob;van der Meulen;88331853;26-11-2020;27-11-2020;Halte Vredenburg;Halte Maliebaan;29.9;5.7;CreditCard
+Gerrit;de Graaf;34355984;25-11-2020;25-11-2020;Halte Achterstraat 2e;Halte Grasstraat;27.57;5.32;Pin
+Michiel;van Doorn;62440657;25-11-2020;25-11-2020;Halte Rozenstraat;Halte Schutstraat;31.46;6.08;Cash
+Thijs;Visser;81961130;23-11-2020;24-11-2020;Halte Brugstraat;Halte Jan van Scorelstraat;28.69;5.51;CreditCard
+Laurentien;Bos;35358357;27-11-2020;28-11-2020;Halte Arkenspoort;Halte Zadelstraat;20.66;3.99;Cash
+Ferdinand;Jansen;97481780;26-11-2020;27-11-2020;Halte Kaatstraat;Halte Wijnpoort;2.45;0.57;Cash
+Manon;van Vliet;73056260;28-11-2020;28-11-2020;Halte Brakelstraat (van);Halte Moreelselaan;17.38;3.42;Saldo
+Beertje;Jonker;17751615;24-11-2020;25-11-2020;Halte Oude Kamp;Halte Riemstraat;26.15;5.13;Cash
+Veronique;de Leeuw;16689283;26-11-2020;27-11-2020;Halte Achterstraat 3e;Halte Abraham Dolesteeg;17.69;3.42;CreditCard
+Gareth;Jansen;44385452;24-11-2020;24-11-2020;Halte Laan van Puntenburg;Halte Waterpoort;9.95;1.9;CreditCard
+Hannah;Driessen;13403285;22-11-2020;22-11-2020;Halte Singelstraat;Halte Bem. Weerd WZ;25.69;4.94;Saldo
+Nora;de Jonge;99821178;27-11-2020;27-11-2020;Halte Wittevrouwenkade;Halte Suikerstraat;22.27;4.37;Cash
+Ina;van de Ven;30105457;24-11-2020;24-11-2020;Halte Kleine Eligensteeg;Halte Admir. Van Ghentstraat;27.46;5.32;Cash
+Margot;Peeters;58388258;23-11-2020;24-11-2020;Halte Laddersteeg;Halte Jachtstraat;20.88;3.99;CreditCard
+Robbert;Mol;88610717;27-11-2020;28-11-2020;Halte Koekoeksplein;Halte Brakelstraat (van);9.33;1.9;Saldo
+Sabine;Meijer;34428515;27-11-2020;27-11-2020;Halte Zwaluwstraat;Halte Haagstraat;9.9;1.9;Saldo
+Guus;van Wijk;40256391;22-11-2020;23-11-2020;Halte Koningstraat;Halte Runnebaan;24.21;4.75;Saldo
+Sandra;Brouwer;24490699;27-11-2020;28-11-2020;Halte Veldstraat;Halte Voor Clarenburg;12.57;2.47;Pin
+Henk;de Jong;16997126;27-11-2020;27-11-2020;Halte Brugstraat;Halte Korte Jansstraat;29.1;5.7;CreditCard
+Odin;Kuiper;80332158;25-11-2020;26-11-2020;Halte Jansteeg;Halte Vischmarkt;25.2;4.94;Cash
+Dana;Maas;72259717;25-11-2020;25-11-2020;Halte hazelaarstraat;Halte Maetsuijkerstraat;14.56;2.85;Pin
+Isabella;Jansen;48705713;27-11-2020;28-11-2020;Halte Hendrik de Keyserstraat;Halte Covelsteeg;24.7;4.75;Saldo
+Ferdinand;van der Ven;54177228;24-11-2020;25-11-2020;Halte Bleijenburgkade;Halte Kievitdwarsstraat;1.41;0.38;CreditCard
+Ralph;van den Pol;74237434;23-11-2020;24-11-2020;Halte Korte Hamsteeg;Halte Bakkerspoort;11.87;2.28;Saldo
+Aafke;van der Ven;81578363;23-11-2020;23-11-2020;Halte Rijnstraat;Halte Raamsteeg;23.96;4.56;Pin
+Jacques;Kuipers;97297206;28-11-2020;28-11-2020;Halte Nieuwe Kade;Halte Eloyensteeg;12.17;2.47;CreditCard
+Ilja;Evers;28919892;26-11-2020;26-11-2020;Halte Speykstraat (van);Halte Leidsche Veer;8.66;1.71;Pin
+Mireille;Schouten;31330327;27-11-2020;28-11-2020;Halte Johan e Wittstraat;Halte Tolsteegbrug;24.88;4.75;Saldo
+Sonja;Hendriks;26816987;23-11-2020;24-11-2020;Halte Reguliersteeg;Halte Jacobsgasthuissteeg;14.07;2.85;Saldo
+Robbe;Visser;83594753;26-11-2020;27-11-2020;Halte Nicolaasweg;Halte Zuilensteeg;12.96;2.47;Pin
+Gert;Huisman;22218811;27-11-2020;27-11-2020;Halte Leuninggang;Halte Kersstraat;22.56;4.37;Saldo
+Harro;van den Heuvel;68481614;28-11-2020;28-11-2020;Halte Prinsenstraat;Halte Borneostraat;29.46;5.7;Pin
+Wilco;van Leeuwen;38006457;23-11-2020;23-11-2020;Halte Bladstraat;Halte Wolvenstraat;11;2.09;Pin
+Barteld;van de Ven;12395751;28-11-2020;28-11-2020;Halte Lange Rietsteeg;Halte Oranjehofje;28.69;5.51;Saldo
+Kuno;Smits;72704542;26-11-2020;27-11-2020;Halte Schoutenstraat;Halte Papaverstraat;22.45;4.37;CreditCard
+Natalie;Boer;81180165;24-11-2020;25-11-2020;Halte Lombokstraat;Halte Schutterstraat;15.49;3.04;CreditCard
+Joanna;Mol;92107419;23-11-2020;23-11-2020;Halte Veldstraat;Halte Werfsteeg;13.82;2.66;Cash
+Kieran;Koster;17201496;24-11-2020;25-11-2020;Halte Kleine Slachtsteeg;Halte Eloyensteeg;27.95;5.32;Pin
+Benjamin;van den Heuvel;14763487;23-11-2020;23-11-2020;Halte Breedstraat;Halte Inundatiekade;21.14;4.18;Saldo
+Jezus;Hermans;22427509;22-11-2020;22-11-2020;Halte Paddemoes;Halte Acht. De Koekoek;16.22;3.23;Pin
+Oguz;de Koning;66764774;28-11-2020;28-11-2020;Halte Daalschedijk 2e;Halte Kievitdwarsstraat;6.78;1.33;CreditCard
+Eelco;Huisman;98805342;22-11-2020;22-11-2020;Halte Jacob Ruysdaelstraat;Halte Keizerstraat;18.03;3.61;Cash
+Graad;Smeets;96239244;26-11-2020;27-11-2020;Halte Padangstraat;Halte Minutensteeg;30.23;5.89;Cash
+Ischa;de Bruin;93730013;26-11-2020;27-11-2020;Halte Wilhelmina Park;Halte Nieuwe Koekoekstraat;22.07;4.37;Saldo
+Quintus;Kuipers;66893003;24-11-2020;25-11-2020;Halte Burgstraat;Halte Baansteeg 1e;27.55;5.32;CreditCard
+Olivia;de Koning;26188391;22-11-2020;23-11-2020;Halte Elisabethsteeg;Halte Lennepstraat;12.45;2.47;Cash
+Margo;Koning;83893370;26-11-2020;27-11-2020;Halte Braamstraat;Halte Anjelierstraat;24.15;4.75;Saldo
+Ghislaine;de Groot;12430723;24-11-2020;24-11-2020;Halte Driesprong;Halte Keizersgracht;17.58;3.42;Cash
+Katrijn;van Loon;37509854;26-11-2020;27-11-2020;Halte Atjehstraat 2e;Halte Donkerstraat;31.13;6.08;Cash
+Sithri;Gerritsen;45009941;26-11-2020;27-11-2020;Halte Hopakker;Halte Wolvenstraat;12.81;2.47;Cash
+Quentin;Jonker;21836046;23-11-2020;23-11-2020;Halte Geertebolwerk;Halte Boterstraat;13.89;2.66;CreditCard
+Maximiliaan;Smeets;57102715;23-11-2020;24-11-2020;Halte Kievitstraat;Halte Knopstraat;28.64;5.51;Saldo
+Joris;Verhoeven;71921617;27-11-2020;28-11-2020;Halte Minstraat;Halte Nicolaasdwarsstraat;30.95;5.89;Saldo
+Tamara;van der Heijden;44617179;28-11-2020;28-11-2020;Halte Dorstige-hartsteeg;Halte Weidesteeg;24.19;4.75;Saldo
+Jannes;Smeets;98207781;23-11-2020;24-11-2020;Halte Oudwijkerlaan;Halte Eikenboomstraat;17.2;3.42;Pin
+Eveline;van der Meulen;34307121;26-11-2020;27-11-2020;Halte Leidsche Kade;Halte Hoogenbergsteeg;14.9;2.85;CreditCard
+Geesje;de Graaf;65605180;27-11-2020;28-11-2020;Halte Kwakkeldijk;Halte Minutensteeg;14.14;2.85;Pin
+Moniek;Meyer;66471080;23-11-2020;23-11-2020;Halte Rijnsteeg;Halte Steenstraat;23.07;4.56;Cash
+Jairey;Prins;54591294;26-11-2020;27-11-2020;Halte Lagenoord;Halte Westerdijk;25.14;4.94;Cash
+Nancy;van de Ven;42109581;27-11-2020;28-11-2020;Halte Mauritsstraat;Halte Weerdsingel O.Z.;9.85;1.9;CreditCard
+Wietse;de Graaf;80579946;25-11-2020;26-11-2020;Halte Willem Barentzstraat;Halte Ganzenmarkt;22.43;4.37;Cash
+Maureen;Verhoeven;17510336;25-11-2020;25-11-2020;Halte Bleekerstraat;Halte Gruttersdijk;22;4.18;Cash
+Durk;Meijer;93048508;28-11-2020;28-11-2020;Halte Voorstraat;Halte Ledig Erf;14.11;2.85;Pin
+Hilco;Timmermans;24549259;23-11-2020;24-11-2020;Halte Geertekerkhof;Halte Jodenrijtje;27.37;5.32;Cash
+Reinhard;van den Brink;56405497;28-11-2020;28-11-2020;Halte Prinsenstraat;Halte Kromme Rijn;8.06;1.71;CreditCard
+James;van Doorn;22058177;24-11-2020;24-11-2020;Halte Spieringpoort;Halte Beverstraat;28.9;5.51;Pin
+Rutger;Maas;17146833;24-11-2020;24-11-2020;Halte Museumlaan;Halte Biltstraat;29.22;5.7;Pin
+Laura;Kramer;67601234;27-11-2020;27-11-2020;Halte Stijfselsteeg;Halte Predikheerenstraat;28.43;5.51;Saldo
+Renske;Timmermans;23923573;23-11-2020;24-11-2020;Halte Steenstraat;Halte Adriaanstraat;23.47;4.56;CreditCard
+Imco;Kuijpers;33519238;25-11-2020;26-11-2020;Halte Merwedekade;Halte Lange Elisabethstraat;25;4.75;Cash
+Isaac;Scholten;51216628;28-11-2020;28-11-2020;Halte Jacobspoort;Halte Keizersgracht;26.23;5.13;Saldo
+Gerk;Blom;55217903;24-11-2020;25-11-2020;Halte Beekstraat;Halte Biltstraat;16.25;3.23;Cash
+Ive;Peters;97632066;26-11-2020;27-11-2020;Halte Korte Minrebroederstraat;Halte Westerdijk;18.25;3.61;Pin
+Monica;van den Broek;87627334;24-11-2020;25-11-2020;Halte Violenstraat;Halte Leerstraat;6.48;1.33;Cash
+Antonie;van der Heijden;42822808;25-11-2020;26-11-2020;Halte Zonstraat;Halte Drakenburgsteeg;24.15;4.75;Saldo
+Grietje;van den Bosch;75386462;25-11-2020;26-11-2020;Halte Zakkendragersteeg;Halte Wed;12.92;2.47;Saldo
+Jean-Jacques;Hoekstra;19504710;28-11-2020;28-11-2020;Halte Kwartelstraat;Halte Korte Viestraat;28.67;5.51;Saldo
+Jacoba;Kuipers;25008388;22-11-2020;22-11-2020;Halte Diemenstraat;Halte Lijsterstraat;27.66;5.32;Saldo
+Frits;Dijkstra;66596581;23-11-2020;23-11-2020;Halte Fabriekstraat;Halte Nicolaaskerkhof;21.63;4.18;Pin
+Tristan;Kuipers;62516709;28-11-2020;28-11-2020;Halte Jan Houtmanstraat;Halte Amaliadwarsstraat;19.47;3.8;CreditCard
+Eefje;van den Pol;40836635;27-11-2020;27-11-2020;Halte Jeruzalemsteeg;Halte Jacobskerksteeg;14.46;2.85;CreditCard
+Monica;Timmermans;31054121;24-11-2020;24-11-2020;Halte Sterrebosch;Halte Nieuwe Koekoekstraat;27.84;5.32;CreditCard
+Emiel;van den Berg;58222530;24-11-2020;24-11-2020;Halte Schaapstraat;Halte Walsteeg;14.56;2.85;CreditCard
+Cornelius;van der Veen;86961016;22-11-2020;23-11-2020;Halte Hennipstraat;Halte Buurkerksteeg 3e;8.25;1.71;Pin
+Kiki;Willems;67711063;24-11-2020;24-11-2020;Halte Daalschedijk 2e;Halte Hooipoort;27.17;5.32;CreditCard
+Zeno;Maas;77477358;25-11-2020;25-11-2020;Halte Takstraat;Halte Abel Tasmanstraat;19.08;3.8;Pin
+Folkert;Kuipers;84010944;28-11-2020;28-11-2020;Halte Vrijhof ;Halte Prins Hendriklaan;27.82;5.32;Cash
+Timo;van de Wal;43169680;26-11-2020;27-11-2020;Halte Elimos. V. Oud Munst.;Halte Tolsteegbrug;17;3.23;Saldo
+Manon;van der Velde;73093328;25-11-2020;25-11-2020;Halte Vischmarkt;Halte Stijfselsteeg;13.19;2.66;Saldo
+Coen;Wolters;11074265;28-11-2020;28-11-2020;Halte Stijfselsteeg;Halte Prinsenstraat;28.64;5.51;Pin
+Roos;van Loon;40029921;22-11-2020;23-11-2020;Halte Jacob Ruysdaelstraat;Halte Amaliadwarsstraat;12.25;2.47;CreditCard
+Carolus;van den Velden;35431972;28-11-2020;28-11-2020;Halte Kleine Tuinstraat;Halte Servetstraat;19;3.61;Saldo
+Marcus;van den Bosch;93706512;22-11-2020;23-11-2020;Halte Willemstraat;Halte Achterstraat;16.88;3.23;Saldo
+Barbara;Molenaar;59372384;24-11-2020;24-11-2020;Halte Alphenplein (van);Halte Veldstraat;13.89;2.66;Saldo
+Jentsje;Hoekstra;81116716;24-11-2020;24-11-2020;Halte Lange Rozendaal;Halte Choorstraat;26.19;5.13;CreditCard
+Miquel;Huisman;61901475;25-11-2020;25-11-2020;Halte Stadhuisbrug;Halte Lange Hartsteeg;24.88;4.75;Cash
+Sudesh;van der Ven;39663033;24-11-2020;24-11-2020;Halte Loevenhout. Dijk;Halte Stadhuisbrug;14.76;2.85;Saldo
+Sibren;de Graaf;82677751;28-11-2020;28-11-2020;Halte Tuinstraat;Halte Runnebaan;12.77;2.47;Pin
+Guusje;de Groot;51432132;28-11-2020;28-11-2020;Halte Appelstraat;Halte Rozenstraat;27.22;5.32;Pin
+Reuven;Peters;81325308;28-11-2020;29-11-2020;Halte Hovenstraat;Halte Korte Hamsteeg;28.18;5.51;Saldo
+Xavier;Wolters;83354424;26-11-2020;26-11-2020;Halte Leeuwenst. Laan;Halte Nicolaasdwarsstraat;26.02;5.13;CreditCard
+Guillermo;Timmermans;46704027;24-11-2020;25-11-2020;Halte Heerenstraat;Halte Kerkdwarsstraat;30.9;5.89;Cash
+Jonas;de Bruyn;55743665;28-11-2020;29-11-2020;Halte Spiegelpoort;Halte Vinkenburgstraat;30.33;5.89;Saldo
+Sierk;Mol;73770184;24-11-2020;24-11-2020;Halte Pijlsweertstraat;Halte Wittevrouwenkade;25.73;4.94;CreditCard
+Floris;Bos;35303050;24-11-2020;24-11-2020;Halte Weerdsingel W.Z.;Halte Oudwijkerlaan;23.87;4.56;Pin
+Connor;Meyer;33306689;28-11-2020;29-11-2020;Halte Middellaan;Halte Corn. Evertsenstraat;20.4;3.99;Cash
+Annemarie;Jacobs;80821622;26-11-2020;26-11-2020;Halte Zwaansteeg;Halte Catharijnekade;16.43;3.23;Pin
+Jielis;Peters;22142973;27-11-2020;27-11-2020;Halte Billitonstraat;Halte Westerstraat;11.45;2.28;CreditCard
+Luuc;de Graaf;49526022;25-11-2020;25-11-2020;Halte Baanstraat;Halte Wijde Doelen;31.06;6.08;Saldo
+Samir;van den Berg;77986552;25-11-2020;26-11-2020;Halte Spinderpoort;Halte Boterstraat;19.36;3.8;Saldo
+Kai;Evers;22575287;25-11-2020;25-11-2020;Halte Catharijnesingel;Halte Dadelstraat;7;1.33;Pin
+Sabina;Mol;39603129;28-11-2020;29-11-2020;Halte Waterstraat;Halte Palmstraat;25.16;4.94;CreditCard
+Antoinette;de Lange;92786035;25-11-2020;26-11-2020;Halte Brouwerstraat;Halte Schoolstraat;31.24;6.08;CreditCard
+Thalia;Visser;47258654;26-11-2020;26-11-2020;Halte Heerenstraat;Halte Bem. Weerd WZ;25.48;4.94;Saldo
+Rokus;de Haan;23519566;24-11-2020;24-11-2020;Halte Blauwkapelscheweg;Halte Achterom;6;1.14;Cash
+Gina;van der Heyden;44529863;25-11-2020;25-11-2020;Halte Nieuwe Keizersgracht;Halte Markstraat;30.84;5.89;Pin
+Tamara;van Beek;50738488;22-11-2020;23-11-2020;Halte Frederiksoord;Halte Hoogelanden WZ;21.47;4.18;Pin
+Ingeborg;Mulder;62244909;24-11-2020;25-11-2020;Halte M.H. Trompstraat;Halte Zilverbergpoort;22.63;4.37;Saldo
+Marian;van der Veen;10665497;27-11-2020;27-11-2020;Halte Kapelstraat;Halte Otterstraat;29.6;5.7;Pin
+Kai;de Jong;68253409;25-11-2020;25-11-2020;Halte Diaconiepoort;Halte Lakmoessteeg;16.4;3.23;CreditCard
+Leentje;van der Berg;75191345;28-11-2020;29-11-2020;Halte Jachtstraat;Halte Runnebaan;16;3.04;Cash
+Roeland;van Dam;36568751;22-11-2020;22-11-2020;Halte Korte Hamsteeg;Halte Antoniestraat;29.72;5.7;CreditCard
+Lynn;van Dijk;94965148;26-11-2020;27-11-2020;Halte Joh. Camphuysstraat;Halte Achterstraat 1e;13.93;2.66;CreditCard
+Merijn;Martens;72335053;23-11-2020;24-11-2020;Halte Oudegracht (Weerd);Halte Staalstraat;18.08;3.61;Pin
+Mirano;van Loon;97312620;22-11-2020;23-11-2020;Halte Frederiksoord;Halte Fockstraat;21.02;4.18;Pin
+Lisa;Kuipers;95752493;27-11-2020;28-11-2020;Halte Eikstraat;Halte Pieterskerkhof;30.08;5.89;Pin
+Boukje;van Loon;48102096;27-11-2020;28-11-2020;Halte Hagelstraat;Halte Zwaluwstraat;26.34;5.13;CreditCard
+Leendert;Visser;84638424;25-11-2020;25-11-2020;Halte Kruisdwarsstraat;Halte Staalstraat;26.29;5.13;Saldo
+Anthonie;van den Pol;37383660;28-11-2020;29-11-2020;Halte Vaartschestraat;Halte Merwedekanaal;30.28;5.89;Saldo
+Constantijn;Smit;39542832;28-11-2020;29-11-2020;Halte Moreelsepark;Halte Ramstraat;4.47;0.95;Pin
+Samir;van Leeuwen;22958334;24-11-2020;24-11-2020;Halte Zonstraat;Halte Reestraat;21.61;4.18;Saldo
+Conor;Bakker;93122022;24-11-2020;25-11-2020;Halte Diaconiepoort;Halte Buurkerksteeg 2e;16.67;3.23;Saldo
+Maxime;Postma;13858979;27-11-2020;28-11-2020;Halte Pietersplein;Halte Hemdsmouwsteeg;20.62;3.99;Pin
+Eelco;Koning;19257188;26-11-2020;26-11-2020;Halte Bankstraat;Halte Korte Rietsteeg;23.69;4.56;CreditCard
+Michel;van Dam;10747374;23-11-2020;23-11-2020;Halte Muntsteeg;Halte Paardesteeg;25.38;4.94;Pin
+Marijn;van Dam;39035802;23-11-2020;24-11-2020;Halte Krijtstraat;Halte Adelaarstraat;23.96;4.56;Cash
+Roan;de Vos;69487418;25-11-2020;25-11-2020;Halte Kwakkeldijk;Halte Fockstraat;25.77;4.94;Saldo
+Dominic;Timmermans;62094363;25-11-2020;25-11-2020;Halte Muntstraat;Halte Wolvenstraat;30.95;5.89;Saldo
+Lucia;Willems;93129828;22-11-2020;22-11-2020;Halte Boogstraat;Halte Eikenboomstraat;12.37;2.47;Pin
+Sebastiaan;Sanders;26334554;25-11-2020;26-11-2020;Halte Tolsteegsingel O.Z.;Halte Neude;20.42;3.99;Cash
+Gommaar;Meijer;92652126;25-11-2020;25-11-2020;Halte Pieter Saenredamstraat;Halte Pieterskerkhof;22.54;4.37;Cash
+Mare;Gerritsen;57517740;23-11-2020;24-11-2020;Halte Krielsteeg;Halte Paarlstraat;6.48;1.33;CreditCard
+Linda;Dekker;45974166;22-11-2020;23-11-2020;Halte Croeselaan;Halte Vossegatschedijk;24.64;4.75;Saldo
+Renata;van de Veen;64436143;24-11-2020;25-11-2020;Halte Wijckstraat (van);Halte Zandpad;24.06;4.75;Cash
+Catharina;Prins;94740482;27-11-2020;27-11-2020;Halte Lange Jansstraat;Halte Munsterkerkhof;24.17;4.75;Saldo
+Wies;Veenstra;65957888;25-11-2020;25-11-2020;Halte Bleijenburgkade;Halte Corn. Evertsenstraat;14.07;2.85;Pin
+Loes;Kuijpers;72955072;27-11-2020;27-11-2020;Halte Begijnesteeg 1e;Halte Kweekstraat;26.83;5.13;CreditCard
+Walter;van der Heijden;86272509;22-11-2020;22-11-2020;Halte Vredeplaats;Halte Kovelaarstraat;16.61;3.23;Saldo
+Heike;Koster;14498148;25-11-2020;25-11-2020;Halte Servaasbolwerk;Halte Bouwstraat;18.3;3.61;Saldo
+Irma;Vermeulen;38325793;22-11-2020;23-11-2020;Halte Croesestraat;Halte Tuchthuisstraat;6.08;1.33;Saldo
+Jurre;van der Wal;10164477;24-11-2020;25-11-2020;Halte Brakelstraat (van);Halte Servaaspark;25.92;4.94;Cash
+Yolanda;van de Pol;76323586;22-11-2020;22-11-2020;Halte Kleine Eligensteeg;Halte Servetstraat;30.74;5.89;Saldo
+Marga;Scholten;28879717;25-11-2020;26-11-2020;Halte Javastraat;Halte Koekoeksplein;12.17;2.47;CreditCard
+Sjouke;van der Veen;57584877;26-11-2020;27-11-2020;Halte Rozenstraat;Halte Plompetorengracht;17.92;3.42;Saldo
+Hennie;Koning;56583102;26-11-2020;26-11-2020;Halte Spieringpoort;Halte Krijtstraat;26.74;5.13;Cash
+Jolanda;Postma;98608987;23-11-2020;23-11-2020;Halte Horstdijk;Halte Lange Nieuwstraat;30.17;5.89;Cash
+Jacob;Jacobs;76965789;25-11-2020;25-11-2020;Halte Zilversteeg;Halte Nachtegaalstraat;17.94;3.42;CreditCard
+Lux;de Leeuw;22755357;24-11-2020;25-11-2020;Halte Lange Hartsteeg;Halte Jeremiestraat;23.39;4.56;Saldo
+Hinne;Koning;62988549;24-11-2020;24-11-2020;Halte Spechtstraat 2e;Halte Zandhofschestraat;28.64;5.51;Pin
+Sven;Wolters;11374294;26-11-2020;27-11-2020;Halte Kruisstraat;Halte Grasstraat;9.8;1.9;CreditCard
+Kristian;de Vos;10491038;22-11-2020;23-11-2020;Halte Mineurslaan;Halte Rondpoort;30.25;5.89;Pin
+Tycho;Verhoeven;66594182;24-11-2020;24-11-2020;Halte Korte Koestraat;Halte Croeselaan;2.65;0.57;Saldo
+Nikki;Kuipers;26261940;28-11-2020;29-11-2020;Halte Zwaansteeg;Halte Ambachtstraat;21.89;4.18;Cash
+Mart;van der Horst;45509029;24-11-2020;25-11-2020;Halte Leidsche Weg;Halte M.A. de Ruijterstraat;4.58;0.95;Pin
+Hyltsje;Koster;84387709;23-11-2020;23-11-2020;Halte Bregittenstraat;Halte Nauwe Begijnesteeg;21.24;4.18;Cash
+Leen;van den Berg;27433586;27-11-2020;27-11-2020;Halte Abel Tasmanstraat;Halte Schroeder van der Kolkstraat;26.38;5.13;Saldo
+Hessel;Sanders;30499069;28-11-2020;29-11-2020;Halte Rijnstraat;Halte Justus van Effenstraat;25.1;4.94;Saldo
+Carla;de Leeuw;18781186;22-11-2020;23-11-2020;Halte Minrebroederstraat;Halte Kleine Singel;29.73;5.7;Pin
+Susan;Visser;47272909;27-11-2020;28-11-2020;Halte Maliestraat;Halte Lange Jansstraat;29.1;5.7;Cash
+Edith;van der Meulen;61392964;24-11-2020;25-11-2020;Halte Schoutenstraat;Halte Achterom;16.73;3.23;Saldo
+Eduard;Evers;64754185;24-11-2020;25-11-2020;Halte Singelstraat;Halte Hofsteeg;19.77;3.8;CreditCard
+Janko;van de Veen;26858897;24-11-2020;24-11-2020;Halte Breedstraat;Halte Maetsuijkerstraat;17.69;3.42;Pin
+Nico;Evers;77579408;27-11-2020;27-11-2020;Halte Vlietstraat;Halte Kroonhof;21.54;4.18;Pin
+Roland;Bakker;61363220;25-11-2020;25-11-2020;Halte Appelstraat;Halte Wijde Watersteeg;29.92;5.7;Pin
+Mathias;van Wijk;53575535;27-11-2020;27-11-2020;Halte Oude Kamp;Halte Nieuwe Keizersgracht;26.85;5.13;Cash
+Anouk;Schipper;53546233;26-11-2020;26-11-2020;Halte Vinkenburgstraat;Halte Buurkerksteeg 2e;28.67;5.51;CreditCard
+Wietse;Koster;89920695;22-11-2020;22-11-2020;Halte Oude Kamp;Halte Vosstraat;13.23;2.66;CreditCard
+Splinter;van der Ven;89164926;25-11-2020;25-11-2020;Halte Diemenstraat;Halte Schalkwijkstraat;29.85;5.7;Pin
+Rinse;Boer;47156185;25-11-2020;26-11-2020;Halte Westravenstraat;Halte Hoogstraat;21.68;4.18;Cash
+Oguz;Bakker;95139582;28-11-2020;28-11-2020;Halte Helmstraat;Halte Costa. Da kade;20;3.8;Cash
+Hugo;van der Velde;61928033;26-11-2020;27-11-2020;Halte Schelpstraat;Halte Tulpstraat;6.78;1.33;Pin
+Theresia;van der Berg;19028732;24-11-2020;25-11-2020;Halte Anjelierstraat;Halte Kleine Singel;18.06;3.61;Saldo
+Tijn;Willemsen;25585234;27-11-2020;28-11-2020;Halte Bem. Weerd WZ;Halte Pijlstraat;25.12;4.94;CreditCard
+Maximiliaan;Visser;33407981;26-11-2020;27-11-2020;Halte Jacobsgasthuissteeg;Halte Buys Ballotstraat;25.34;4.94;Pin
+Solee;van der Wal;19459550;24-11-2020;24-11-2020;Halte Hopakker;Halte M.A. de Ruijterstraat;28.76;5.51;Pin
+Ezra;van de Brink;30118205;23-11-2020;23-11-2020;Halte Blindesteeg;Halte Bankastraat;17.83;3.42;Cash
+Jetske;van Loon;23350223;26-11-2020;26-11-2020;Halte Schaapstraat;Halte Drift;11;2.09;Pin
+Lester;Prins;75084353;22-11-2020;22-11-2020;Halte Daalschedijk 1e;Halte Staalstraat;29.6;5.7;Cash
+Priscilla;Meijer;37624945;28-11-2020;28-11-2020;Halte Bellamystraat;Halte Zadelstraat;29.43;5.7;CreditCard
+Adriana;van Dongen;29426799;26-11-2020;27-11-2020;Halte Kranenburg;Halte Jan Meyenstraat;29.92;5.7;Pin
+Helga;de Graaf;66982702;22-11-2020;23-11-2020;Halte Hanengeschrei;Halte Zoutmarkt;16.09;3.23;Saldo
+Erica;de Koning;61434229;24-11-2020;25-11-2020;Halte Trans;Halte Weteringstraat;11.96;2.28;Pin
